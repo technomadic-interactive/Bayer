@@ -1,0 +1,846 @@
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493837047787,"fcnt":0,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":0,"seqq":0,"ts":1493837048047}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493837047787,"fcnt":0,"port":1,"freq":902900000,"toa":51,"dr":"SF7 BW125 4/5","ack":false,"gws":[{"rssi":-48,"snr":11.2,"ts":1493837047787,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493837053955,"fcnt":1,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":1,"seqq":1,"ts":1493837054162}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493837053955,"fcnt":1,"port":1,"freq":903100000,"toa":51,"dr":"SF7 BW125 4/5","ack":false,"gws":[{"rssi":-40,"snr":8.5,"ts":1493837053955,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493837082187,"fcnt":0,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":0,"seqq":0,"ts":1493837082394}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493837082187,"fcnt":0,"port":1,"freq":902900000,"toa":51,"dr":"SF7 BW125 4/5","ack":false,"gws":[{"rssi":-39,"snr":9.8,"ts":1493837082187,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":1,"seqq":1,"ts":1493837086203}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493837092307,"fcnt":1,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":2,"seqq":2,"ts":1493837092514}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493837092307,"fcnt":1,"port":1,"freq":903700000,"toa":92,"dr":"SF8 BW125 4/5","ack":false,"gws":[{"rssi":-35,"snr":10.8,"ts":1493837092307,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":3,"seqq":3,"ts":1493837096492}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493837102448,"fcnt":2,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":4,"seqq":4,"ts":1493837102654}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493837102448,"fcnt":2,"port":1,"freq":903100000,"toa":92,"dr":"SF8 BW125 4/5","ack":false,"gws":[{"rssi":-29,"snr":11.2,"ts":1493837102448,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493837108887,"fcnt":3,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":5,"seqq":5,"ts":1493837109093}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493837108887,"fcnt":3,"port":1,"freq":903500000,"toa":92,"dr":"SF8 BW125 4/5","ack":false,"gws":[{"rssi":-30,"snr":11,"ts":1493837108887,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493837115097,"fcnt":4,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":6,"seqq":6,"ts":1493837115303}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493837115097,"fcnt":4,"port":1,"freq":903500000,"toa":92,"dr":"SF8 BW125 4/5","ack":false,"gws":[{"rssi":-33,"snr":12.8,"ts":1493837115097,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":7,"seqq":7,"ts":1493837119544}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":8,"seqq":8,"ts":1493837123644}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":9,"seqq":9,"ts":1493837127872}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":10,"seqq":10,"ts":1493837132232}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493837138467,"fcnt":5,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":11,"seqq":11,"ts":1493837138674}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493837138467,"fcnt":5,"port":1,"freq":902700000,"toa":329,"dr":"SF10 BW125 4/5","ack":false,"gws":[{"rssi":-42,"snr":9.2,"ts":1493837138467,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493837144987,"fcnt":6,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":12,"seqq":12,"ts":1493837145194}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493837144987,"fcnt":6,"port":1,"freq":903700000,"toa":329,"dr":"SF10 BW125 4/5","ack":false,"gws":[{"rssi":-37,"snr":7.5,"ts":1493837144987,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":13,"seqq":13,"ts":1493837149502}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493837160167,"fcnt":7,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":14,"seqq":14,"ts":1493837160373}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493837160167,"fcnt":7,"port":1,"freq":902900000,"toa":329,"dr":"SF10 BW125 4/5","ack":false,"gws":[{"rssi":-70,"snr":9.2,"ts":1493837160167,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493837166646,"fcnt":8,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":15,"seqq":15,"ts":1493837166851}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493837166646,"fcnt":8,"port":1,"freq":903700000,"toa":329,"dr":"SF10 BW125 4/5","ack":false,"gws":[{"rssi":-88,"snr":7.5,"ts":1493837166646,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493837173147,"fcnt":9,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":16,"seqq":16,"ts":1493837173353}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493837173147,"fcnt":9,"port":1,"freq":903300000,"toa":329,"dr":"SF10 BW125 4/5","ack":false,"gws":[{"rssi":-76,"snr":9.2,"ts":1493837173147,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493837179637,"fcnt":10,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":17,"seqq":17,"ts":1493837179842}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493837179637,"fcnt":10,"port":1,"freq":903500000,"toa":329,"dr":"SF10 BW125 4/5","ack":false,"gws":[{"rssi":-76,"snr":9,"ts":1493837179637,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493837186107,"fcnt":11,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":18,"seqq":18,"ts":1493837186313}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493837186107,"fcnt":11,"port":1,"freq":902700000,"toa":329,"dr":"SF10 BW125 4/5","ack":false,"gws":[{"rssi":-75,"snr":9.8,"ts":1493837186107,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493837192687,"fcnt":12,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":19,"seqq":19,"ts":1493837192893}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493837192687,"fcnt":12,"port":1,"freq":903700000,"toa":329,"dr":"SF10 BW125 4/5","ack":false,"gws":[{"rssi":-77,"snr":7.2,"ts":1493837192687,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493837199966,"fcnt":13,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":20,"seqq":20,"ts":1493837200173}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493837199966,"fcnt":13,"port":1,"freq":903300000,"toa":329,"dr":"SF10 BW125 4/5","ack":false,"gws":[{"rssi":-74,"snr":7.8,"ts":1493837199966,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":21,"seqq":21,"ts":1493837204693}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":22,"seqq":22,"ts":1493837209074}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":23,"seqq":23,"ts":1493837213415}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493837219627,"fcnt":14,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":24,"seqq":24,"ts":1493837219833}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493837219627,"fcnt":14,"port":1,"freq":902300000,"toa":329,"dr":"SF10 BW125 4/5","ack":false,"gws":[{"rssi":-87,"snr":8.8,"ts":1493837219627,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":25,"seqq":25,"ts":1493837224406}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":26,"seqq":26,"ts":1493837228714}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":27,"seqq":27,"ts":1493837233056}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493837239237,"fcnt":15,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":28,"seqq":28,"ts":1493837239444}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493837239237,"fcnt":15,"port":1,"freq":902500000,"toa":329,"dr":"SF10 BW125 4/5","ack":false,"gws":[{"rssi":-89,"snr":8.8,"ts":1493837239237,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493837245678,"fcnt":16,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":29,"seqq":29,"ts":1493837245885}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493837245678,"fcnt":16,"port":1,"freq":902500000,"toa":329,"dr":"SF10 BW125 4/5","ack":false,"gws":[{"rssi":-88,"snr":9,"ts":1493837245678,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493837252227,"fcnt":17,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":30,"seqq":30,"ts":1493837252434}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493837252227,"fcnt":17,"port":1,"freq":903300000,"toa":329,"dr":"SF10 BW125 4/5","ack":false,"gws":[{"rssi":-87,"snr":10.5,"ts":1493837252227,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493837258657,"fcnt":18,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":31,"seqq":31,"ts":1493837258863}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493837258657,"fcnt":18,"port":1,"freq":902900000,"toa":329,"dr":"SF10 BW125 4/5","ack":false,"gws":[{"rssi":-88,"snr":8.2,"ts":1493837258657,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493837265147,"fcnt":19,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":32,"seqq":32,"ts":1493837265352}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493837265147,"fcnt":19,"port":1,"freq":903100000,"toa":329,"dr":"SF10 BW125 4/5","ack":false,"gws":[{"rssi":-91,"snr":8.5,"ts":1493837265147,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493837271587,"fcnt":20,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":33,"seqq":33,"ts":1493837271792}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493837271587,"fcnt":20,"port":1,"freq":902700000,"toa":329,"dr":"SF10 BW125 4/5","ack":false,"gws":[{"rssi":-107,"snr":5.5,"ts":1493837271587,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":34,"seqq":34,"ts":1493837276173}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493837282517,"fcnt":21,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":35,"seqq":35,"ts":1493837282726}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493837282517,"fcnt":21,"port":1,"freq":902700000,"toa":329,"dr":"SF10 BW125 4/5","ack":false,"gws":[{"rssi":-101,"snr":5.2,"ts":1493837282517,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":36,"seqq":36,"ts":1493837287104}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493837293427,"fcnt":22,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":37,"seqq":37,"ts":1493837293634}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493837293427,"fcnt":22,"port":1,"freq":903500000,"toa":329,"dr":"SF10 BW125 4/5","ack":false,"gws":[{"rssi":-112,"snr":-2.8,"ts":1493837293427,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493837300727,"fcnt":23,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":38,"seqq":38,"ts":1493837300937}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493837300727,"fcnt":23,"port":1,"freq":903300000,"toa":329,"dr":"SF10 BW125 4/5","ack":false,"gws":[{"rssi":-101,"snr":4.8,"ts":1493837300727,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493837307087,"fcnt":24,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":39,"seqq":39,"ts":1493837307292}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493837307087,"fcnt":24,"port":1,"freq":902300000,"toa":329,"dr":"SF10 BW125 4/5","ack":false,"gws":[{"rssi":-111,"snr":-1.8,"ts":1493837307087,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493837313517,"fcnt":25,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":40,"seqq":40,"ts":1493837313722}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493837313517,"fcnt":25,"port":1,"freq":902700000,"toa":329,"dr":"SF10 BW125 4/5","ack":false,"gws":[{"rssi":-107,"snr":4,"ts":1493837313517,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493837320167,"fcnt":26,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":41,"seqq":41,"ts":1493837320374}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493837320167,"fcnt":26,"port":1,"freq":903100000,"toa":329,"dr":"SF10 BW125 4/5","ack":false,"gws":[{"rssi":-111,"snr":-2.8,"ts":1493837320167,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":42,"seqq":42,"ts":1493837324783}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493837331067,"fcnt":27,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":43,"seqq":43,"ts":1493837331274}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493837331067,"fcnt":27,"port":1,"freq":902900000,"toa":329,"dr":"SF10 BW125 4/5","ack":false,"gws":[{"rssi":-106,"snr":7,"ts":1493837331067,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493837337647,"fcnt":28,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":44,"seqq":44,"ts":1493837337854}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493837337647,"fcnt":28,"port":1,"freq":902900000,"toa":329,"dr":"SF10 BW125 4/5","ack":false,"gws":[{"rssi":-113,"snr":-2.5,"ts":1493837337647,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":45,"seqq":45,"ts":1493837342153}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":46,"seqq":46,"ts":1493837346343}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":47,"seqq":47,"ts":1493837350853}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493837357087,"fcnt":29,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":48,"seqq":48,"ts":1493837357295}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493837357087,"fcnt":29,"port":1,"freq":903500000,"toa":329,"dr":"SF10 BW125 4/5","ack":false,"gws":[{"rssi":-113,"snr":-4.5,"ts":1493837357087,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":49,"seqq":49,"ts":1493837361693}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493837372247,"fcnt":30,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":50,"seqq":50,"ts":1493837372454}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493837372247,"fcnt":30,"port":1,"freq":903100000,"toa":329,"dr":"SF10 BW125 4/5","ack":false,"gws":[{"rssi":-113,"snr":-5.5,"ts":1493837372247,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493837383166,"fcnt":31,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":51,"seqq":51,"ts":1493837383395}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493837383166,"fcnt":31,"port":1,"freq":902500000,"toa":329,"dr":"SF10 BW125 4/5","ack":false,"gws":[{"rssi":-115,"snr":-13,"ts":1493837383166,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":52,"seqq":52,"ts":1493837387683}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493837401377,"fcnt":33,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":53,"seqq":53,"ts":1493837401584}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493837401377,"fcnt":33,"port":1,"freq":903100000,"toa":329,"dr":"SF10 BW125 4/5","ack":false,"gws":[{"rssi":-115,"snr":-2.8,"ts":1493837401377,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493837407857,"fcnt":34,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":54,"seqq":54,"ts":1493837408064}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493837407857,"fcnt":34,"port":1,"freq":902700000,"toa":329,"dr":"SF10 BW125 4/5","ack":false,"gws":[{"rssi":-113,"snr":-9.8,"ts":1493837407857,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493837418937,"fcnt":35,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":55,"seqq":55,"ts":1493837419142}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493837418937,"fcnt":35,"port":1,"freq":903500000,"toa":329,"dr":"SF10 BW125 4/5","ack":false,"gws":[{"rssi":-117,"snr":-5.2,"ts":1493837418937,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":56,"seqq":56,"ts":1493837423415}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":57,"seqq":57,"ts":1493837427754}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":58,"seqq":58,"ts":1493837432113}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493837438287,"fcnt":36,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":59,"seqq":59,"ts":1493837438497}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493837438287,"fcnt":36,"port":1,"freq":902700000,"toa":329,"dr":"SF10 BW125 4/5","ack":false,"gws":[{"rssi":-114,"snr":-3,"ts":1493837438287,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":60,"seqq":60,"ts":1493837443044}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493837449296,"fcnt":37,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":61,"seqq":61,"ts":1493837449501}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493837449296,"fcnt":37,"port":1,"freq":903300000,"toa":329,"dr":"SF10 BW125 4/5","ack":false,"gws":[{"rssi":-115,"snr":-5.5,"ts":1493837449296,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":62,"seqq":62,"ts":1493837453854}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":63,"seqq":63,"ts":1493837458153}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":64,"seqq":64,"ts":1493837462536}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493837469837,"fcnt":38,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":65,"seqq":65,"ts":1493837470043}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493837469837,"fcnt":38,"port":1,"freq":903300000,"toa":329,"dr":"SF10 BW125 4/5","ack":false,"gws":[{"rssi":-115,"snr":-9.2,"ts":1493837469837,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":66,"seqq":66,"ts":1493837474415}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":67,"seqq":67,"ts":1493837487655}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":68,"seqq":68,"ts":1493837496422}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":69,"seqq":69,"ts":1493837505253}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493837512597,"fcnt":39,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":70,"seqq":70,"ts":1493837512803}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493837512597,"fcnt":39,"port":1,"freq":903500000,"toa":329,"dr":"SF10 BW125 4/5","ack":false,"gws":[{"rssi":-115,"snr":-8,"ts":1493837512597,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":71,"seqq":71,"ts":1493837516963}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493837523157,"fcnt":40,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":72,"seqq":72,"ts":1493837523364}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493837523157,"fcnt":40,"port":1,"freq":902300000,"toa":329,"dr":"SF10 BW125 4/5","ack":false,"gws":[{"rssi":-115,"snr":-6.5,"ts":1493837523157,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493837641177,"fcnt":43,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":73,"seqq":73,"ts":1493837641385}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493837641177,"fcnt":43,"port":1,"freq":903700000,"toa":329,"dr":"SF10 BW125 4/5","ack":false,"gws":[{"rssi":-115,"snr":-13.2,"ts":1493837641177,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493837652877,"fcnt":44,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":74,"seqq":74,"ts":1493837653084}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493837652877,"fcnt":44,"port":1,"freq":903500000,"toa":329,"dr":"SF10 BW125 4/5","ack":false,"gws":[{"rssi":-115,"snr":-8.5,"ts":1493837652877,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":75,"seqq":75,"ts":1493837670984}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":76,"seqq":76,"ts":1493837683815}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493837759887,"fcnt":46,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":77,"seqq":77,"ts":1493837760095}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493837759887,"fcnt":46,"port":1,"freq":902500000,"toa":329,"dr":"SF10 BW125 4/5","ack":false,"gws":[{"rssi":-115,"snr":-11.8,"ts":1493837759887,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":78,"seqq":78,"ts":1493837764484}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493837780597,"fcnt":47,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":79,"seqq":79,"ts":1493837780805}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493837780597,"fcnt":47,"port":1,"freq":902700000,"toa":329,"dr":"SF10 BW125 4/5","ack":false,"gws":[{"rssi":-117,"snr":-5,"ts":1493837780597,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493837838337,"fcnt":49,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":80,"seqq":80,"ts":1493837838543}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493837838337,"fcnt":49,"port":1,"freq":902700000,"toa":329,"dr":"SF10 BW125 4/5","ack":false,"gws":[{"rssi":-115,"snr":-7.8,"ts":1493837838337,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":81,"seqq":81,"ts":1493837847275}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493837880946,"fcnt":50,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":82,"seqq":82,"ts":1493837881154}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493837880946,"fcnt":50,"port":1,"freq":903300000,"toa":329,"dr":"SF10 BW125 4/5","ack":false,"gws":[{"rssi":-115,"snr":-14.2,"ts":1493837880946,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":83,"seqq":83,"ts":1493837894403}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":84,"seqq":84,"ts":1493837898623}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":85,"seqq":85,"ts":1493837902903}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493837909148,"fcnt":51,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":86,"seqq":86,"ts":1493837909353}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493837909148,"fcnt":51,"port":1,"freq":902500000,"toa":329,"dr":"SF10 BW125 4/5","ack":false,"gws":[{"rssi":-115,"snr":-10,"ts":1493837909148,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493837915767,"fcnt":52,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":87,"seqq":87,"ts":1493837915975}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493837915767,"fcnt":52,"port":1,"freq":902500000,"toa":329,"dr":"SF10 BW125 4/5","ack":false,"gws":[{"rssi":-115,"snr":-13.5,"ts":1493837915767,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":88,"seqq":88,"ts":1493837920464}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493837927668,"fcnt":53,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":89,"seqq":89,"ts":1493837927874}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493837927668,"fcnt":53,"port":1,"freq":903300000,"toa":329,"dr":"SF10 BW125 4/5","ack":false,"gws":[{"rssi":-114,"snr":-14.2,"ts":1493837927668,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":90,"seqq":90,"ts":1493837932126}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493837955987,"fcnt":54,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":91,"seqq":91,"ts":1493837956193}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493837955987,"fcnt":54,"port":1,"freq":903100000,"toa":329,"dr":"SF10 BW125 4/5","ack":false,"gws":[{"rssi":-117,"snr":-5.2,"ts":1493837955987,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":92,"seqq":92,"ts":1493837960633}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":93,"seqq":93,"ts":1493837969193}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493837975497,"fcnt":55,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":94,"seqq":94,"ts":1493837975704}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493837975497,"fcnt":55,"port":1,"freq":902700000,"toa":329,"dr":"SF10 BW125 4/5","ack":false,"gws":[{"rssi":-118,"snr":-8.8,"ts":1493837975497,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493837982927,"fcnt":56,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":95,"seqq":95,"ts":1493837983132}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493837982927,"fcnt":56,"port":1,"freq":903100000,"toa":329,"dr":"SF10 BW125 4/5","ack":false,"gws":[{"rssi":-120,"snr":-8,"ts":1493837982927,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":96,"seqq":96,"ts":1493837987468}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":97,"seqq":97,"ts":1493837991879}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":98,"seqq":98,"ts":1493837996328}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":99,"seqq":99,"ts":1493838000749}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":100,"seqq":100,"ts":1493838005088}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":101,"seqq":101,"ts":1493838009553}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":102,"seqq":102,"ts":1493838013889}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493838020152,"fcnt":57,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":103,"seqq":103,"ts":1493838020358}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493838020152,"fcnt":57,"port":1,"freq":902700000,"toa":329,"dr":"SF10 BW125 4/5","ack":false,"gws":[{"rssi":-119,"snr":-7,"ts":1493838020152,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":104,"seqq":104,"ts":1493838025797}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493838046520,"fcnt":58,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":105,"seqq":105,"ts":1493838046725}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493838046520,"fcnt":58,"port":1,"freq":902300000,"toa":329,"dr":"SF10 BW125 4/5","ack":false,"gws":[{"rssi":-118,"snr":-10,"ts":1493838046520,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":106,"seqq":106,"ts":1493838049697}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493838149170,"fcnt":60,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":107,"seqq":107,"ts":1493838149376}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493838149170,"fcnt":60,"port":1,"freq":902500000,"toa":329,"dr":"SF10 BW125 4/5","ack":false,"gws":[{"rssi":-118,"snr":-12.5,"ts":1493838149170,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":108,"seqq":108,"ts":1493838152317}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493838172256,"fcnt":62,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":109,"seqq":109,"ts":1493838172464}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493838172256,"fcnt":62,"port":1,"freq":903700000,"toa":329,"dr":"SF10 BW125 4/5","ack":false,"gws":[{"rssi":-118,"snr":-5.5,"ts":1493838172256,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":110,"seqq":110,"ts":1493838181973}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":111,"seqq":111,"ts":1493838185222}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":112,"seqq":112,"ts":1493838189261}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":113,"seqq":113,"ts":1493838194680}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":114,"seqq":114,"ts":1493838197801}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493838218590,"fcnt":63,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":115,"seqq":115,"ts":1493838218796}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493838218590,"fcnt":63,"port":1,"freq":902700000,"toa":329,"dr":"SF10 BW125 4/5","ack":false,"gws":[{"rssi":-115,"snr":-4,"ts":1493838218590,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":116,"seqq":116,"ts":1493838222850}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":117,"seqq":117,"ts":1493838227233}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":118,"seqq":118,"ts":1493838231693}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":119,"seqq":119,"ts":1493838236029}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":120,"seqq":120,"ts":1493838240395}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493838252327,"fcnt":64,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":121,"seqq":121,"ts":1493838252534}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493838252327,"fcnt":64,"port":1,"freq":903100000,"toa":329,"dr":"SF10 BW125 4/5","ack":false,"gws":[{"rssi":-117,"snr":-6,"ts":1493838252327,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":122,"seqq":122,"ts":1493838256606}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":123,"seqq":123,"ts":1493838261159}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":124,"seqq":124,"ts":1493838270101}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":125,"seqq":125,"ts":1493838274208}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":126,"seqq":126,"ts":1493838278570}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":127,"seqq":127,"ts":1493838282915}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":128,"seqq":128,"ts":1493838287320}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493838294914,"fcnt":65,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":129,"seqq":129,"ts":1493838295122}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493838294914,"fcnt":65,"port":1,"freq":902900000,"toa":329,"dr":"SF10 BW125 4/5","ack":false,"gws":[{"rssi":-119,"snr":-1.8,"ts":1493838294914,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":130,"seqq":130,"ts":1493838299374}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":131,"seqq":131,"ts":1493838303551}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":132,"seqq":132,"ts":1493838312634}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":133,"seqq":133,"ts":1493838316631}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":134,"seqq":134,"ts":1493838321100}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":135,"seqq":135,"ts":1493838325494}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":136,"seqq":136,"ts":1493838329874}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493838337545,"fcnt":66,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":137,"seqq":137,"ts":1493838337750}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493838337545,"fcnt":66,"port":1,"freq":903100000,"toa":329,"dr":"SF10 BW125 4/5","ack":false,"gws":[{"rssi":-118,"snr":-11.8,"ts":1493838337545,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":138,"seqq":138,"ts":1493838341654}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":139,"seqq":139,"ts":1493838346005}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":140,"seqq":140,"ts":1493838350582}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":141,"seqq":141,"ts":1493838354865}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":142,"seqq":142,"ts":1493838359257}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":143,"seqq":143,"ts":1493838363590}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":144,"seqq":144,"ts":1493838368113}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":145,"seqq":145,"ts":1493838372438}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493838379988,"fcnt":67,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":146,"seqq":146,"ts":1493838380195}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493838379988,"fcnt":67,"port":1,"freq":902300000,"toa":329,"dr":"SF10 BW125 4/5","ack":false,"gws":[{"rssi":-114,"snr":5.8,"ts":1493838379988,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":147,"seqq":147,"ts":1493838384275}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":148,"seqq":148,"ts":1493838388610}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":149,"seqq":149,"ts":1493838392987}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":150,"seqq":150,"ts":1493838397366}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":151,"seqq":151,"ts":1493838401799}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":152,"seqq":152,"ts":1493838406161}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":153,"seqq":153,"ts":1493838410609}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":154,"seqq":154,"ts":1493838415058}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493838422489,"fcnt":68,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":155,"seqq":155,"ts":1493838422699}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493838422489,"fcnt":68,"port":1,"freq":902700000,"toa":329,"dr":"SF10 BW125 4/5","ack":false,"gws":[{"rssi":-95,"snr":9,"ts":1493838422489,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":156,"seqq":156,"ts":1493838426893}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":157,"seqq":157,"ts":1493838431246}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":158,"seqq":158,"ts":1493838435530}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":159,"seqq":159,"ts":1493838439942}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":160,"seqq":160,"ts":1493838444693}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":161,"seqq":161,"ts":1493838449373}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":162,"seqq":162,"ts":1493838455280}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":163,"seqq":163,"ts":1493838458528}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493838464794,"fcnt":69,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":164,"seqq":164,"ts":1493838465001}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493838464794,"fcnt":69,"port":1,"freq":902900000,"toa":329,"dr":"SF10 BW125 4/5","ack":false,"gws":[{"rssi":-100,"snr":8.5,"ts":1493838464794,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":165,"seqq":165,"ts":1493838469302}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":166,"seqq":166,"ts":1493838473647}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493838483585,"fcnt":0,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":0,"seqq":0,"ts":1493838483795}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493838483585,"fcnt":0,"port":1,"freq":903100000,"toa":51,"dr":"SF7 BW125 4/5","ack":false,"gws":[{"rssi":-100,"snr":9.5,"ts":1493838483585,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":1,"seqq":1,"ts":1493838487378}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":2,"seqq":2,"ts":1493838492152}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":3,"seqq":3,"ts":1493838495871}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":4,"seqq":4,"ts":1493838499694}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":5,"seqq":5,"ts":1493838503736}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":6,"seqq":6,"ts":1493838508194}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":7,"seqq":7,"ts":1493838512583}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":8,"seqq":8,"ts":1493838517028}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493838524477,"fcnt":1,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":9,"seqq":9,"ts":1493838524684}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493838524477,"fcnt":1,"port":1,"freq":902500000,"toa":329,"dr":"SF10 BW125 4/5","ack":false,"gws":[{"rssi":-99,"snr":8.2,"ts":1493838524477,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":10,"seqq":10,"ts":1493838528917}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":11,"seqq":11,"ts":1493838533243}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":12,"seqq":12,"ts":1493838537791}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":13,"seqq":13,"ts":1493838542061}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":14,"seqq":14,"ts":1493838546466}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":15,"seqq":15,"ts":1493838550779}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":16,"seqq":16,"ts":1493838555259}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":17,"seqq":17,"ts":1493838559550}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493838567212,"fcnt":2,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":18,"seqq":18,"ts":1493838567417}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493838567212,"fcnt":2,"port":1,"freq":902300000,"toa":329,"dr":"SF10 BW125 4/5","ack":false,"gws":[{"rssi":-100,"snr":6.2,"ts":1493838567212,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":19,"seqq":19,"ts":1493838571403}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":20,"seqq":20,"ts":1493838575781}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":21,"seqq":21,"ts":1493838580262}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":22,"seqq":22,"ts":1493838584581}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":23,"seqq":23,"ts":1493838588969}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":24,"seqq":24,"ts":1493838593352}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":25,"seqq":25,"ts":1493838597709}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":26,"seqq":26,"ts":1493838602120}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493838609676,"fcnt":3,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":27,"seqq":27,"ts":1493838609885}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493838609676,"fcnt":3,"port":1,"freq":902900000,"toa":329,"dr":"SF10 BW125 4/5","ack":false,"gws":[{"rssi":-95,"snr":7,"ts":1493838609676,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":28,"seqq":28,"ts":1493838613978}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":29,"seqq":29,"ts":1493838618342}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":30,"seqq":30,"ts":1493838622739}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":31,"seqq":31,"ts":1493838627146}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":32,"seqq":32,"ts":1493838631478}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":33,"seqq":33,"ts":1493838636086}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":34,"seqq":34,"ts":1493838640386}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":35,"seqq":35,"ts":1493838644706}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493838653060,"fcnt":4,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":36,"seqq":36,"ts":1493838653266}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493838653060,"fcnt":4,"port":1,"freq":902700000,"toa":329,"dr":"SF10 BW125 4/5","ack":false,"gws":[{"rssi":-100,"snr":5,"ts":1493838653060,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":37,"seqq":37,"ts":1493838655618}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493838662856,"fcnt":5,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":38,"seqq":38,"ts":1493838663064}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493838662856,"fcnt":5,"port":1,"freq":902700000,"toa":329,"dr":"SF10 BW125 4/5","ack":false,"gws":[{"rssi":-101,"snr":8.2,"ts":1493838662856,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":39,"seqq":39,"ts":1493838667372}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":40,"seqq":40,"ts":1493838671778}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":41,"seqq":41,"ts":1493838676147}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":42,"seqq":42,"ts":1493838680477}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":43,"seqq":43,"ts":1493838684903}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":44,"seqq":44,"ts":1493838689270}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":45,"seqq":45,"ts":1493838693760}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493838701296,"fcnt":6,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":46,"seqq":46,"ts":1493838701502}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493838701296,"fcnt":6,"port":1,"freq":902700000,"toa":329,"dr":"SF10 BW125 4/5","ack":false,"gws":[{"rssi":-99,"snr":9,"ts":1493838701296,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":47,"seqq":47,"ts":1493838705516}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":48,"seqq":48,"ts":1493838709865}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493838733709,"fcnt":0,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":0,"seqq":0,"ts":1493838733916}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493838733709,"fcnt":0,"port":1,"freq":903700000,"toa":51,"dr":"SF7 BW125 4/5","ack":false,"gws":[{"rssi":-113,"snr":3.5,"ts":1493838733709,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":1,"seqq":1,"ts":1493838735764}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493838741729,"fcnt":1,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":2,"seqq":2,"ts":1493838741937}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493838741729,"fcnt":1,"port":1,"freq":903100000,"toa":92,"dr":"SF8 BW125 4/5","ack":false,"gws":[{"rssi":-111,"snr":7,"ts":1493838741729,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493838747919,"fcnt":2,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":3,"seqq":3,"ts":1493838748125}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493838747919,"fcnt":2,"port":1,"freq":903700000,"toa":92,"dr":"SF8 BW125 4/5","ack":false,"gws":[{"rssi":-108,"snr":5.5,"ts":1493838747919,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493838754119,"fcnt":3,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":4,"seqq":4,"ts":1493838754324}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493838754119,"fcnt":3,"port":1,"freq":903700000,"toa":92,"dr":"SF8 BW125 4/5","ack":false,"gws":[{"rssi":-109,"snr":7.2,"ts":1493838754119,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493838760279,"fcnt":4,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":5,"seqq":5,"ts":1493838760486}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493838760279,"fcnt":4,"port":1,"freq":903100000,"toa":92,"dr":"SF8 BW125 4/5","ack":false,"gws":[{"rssi":-109,"snr":4.5,"ts":1493838760279,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493838766479,"fcnt":5,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":6,"seqq":6,"ts":1493838766685}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493838766479,"fcnt":5,"port":1,"freq":903300000,"toa":92,"dr":"SF8 BW125 4/5","ack":false,"gws":[{"rssi":-109,"snr":6.8,"ts":1493838766479,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493838774295,"fcnt":6,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":7,"seqq":7,"ts":1493838774501}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493838774295,"fcnt":6,"port":1,"freq":902300000,"toa":92,"dr":"SF8 BW125 4/5","ack":false,"gws":[{"rssi":-111,"snr":3.5,"ts":1493838774295,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":8,"seqq":8,"ts":1493838777080}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493838782984,"fcnt":7,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":9,"seqq":9,"ts":1493838783190}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493838782984,"fcnt":7,"port":1,"freq":903500000,"toa":92,"dr":"SF8 BW125 4/5","ack":false,"gws":[{"rssi":-109,"snr":6.8,"ts":1493838782984,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493838789195,"fcnt":8,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":10,"seqq":10,"ts":1493838789451}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493838789195,"fcnt":8,"port":1,"freq":903700000,"toa":92,"dr":"SF8 BW125 4/5","ack":false,"gws":[{"rssi":-111,"snr":5.5,"ts":1493838789195,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493838795384,"fcnt":9,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":11,"seqq":11,"ts":1493838795589}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493838795384,"fcnt":9,"port":1,"freq":903500000,"toa":92,"dr":"SF8 BW125 4/5","ack":false,"gws":[{"rssi":-113,"snr":0.8,"ts":1493838795384,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493838803151,"fcnt":10,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":12,"seqq":12,"ts":1493838803360}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493838803151,"fcnt":10,"port":1,"freq":902700000,"toa":92,"dr":"SF8 BW125 4/5","ack":false,"gws":[{"rssi":-113,"snr":5.5,"ts":1493838803151,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":13,"seqq":13,"ts":1493838805918}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493838812000,"fcnt":11,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":14,"seqq":14,"ts":1493838812207}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493838812000,"fcnt":11,"port":1,"freq":902300000,"toa":185,"dr":"SF9 BW125 4/5","ack":false,"gws":[{"rssi":-112,"snr":6,"ts":1493838812000,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493838991561,"fcnt":0,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":0,"seqq":0,"ts":1493838991766}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493838991561,"fcnt":0,"port":1,"freq":903300000,"toa":51,"dr":"SF7 BW125 4/5","ack":false,"gws":[{"rssi":-102,"snr":7.5,"ts":1493838991561,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":1,"seqq":1,"ts":1493838995815}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":2,"seqq":2,"ts":1493838999900}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":3,"seqq":3,"ts":1493839004122}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":4,"seqq":4,"ts":1493839008506}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493839017107,"fcnt":0,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":0,"seqq":0,"ts":1493839017312}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493839017107,"fcnt":0,"port":1,"freq":903700000,"toa":51,"dr":"SF7 BW125 4/5","ack":false,"gws":[{"rssi":-97,"snr":7,"ts":1493839017107,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":1,"seqq":1,"ts":1493839021444}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":2,"seqq":2,"ts":1493839025572}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":3,"seqq":3,"ts":1493839029666}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":4,"seqq":4,"ts":1493839033958}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":5,"seqq":5,"ts":1493839038224}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":6,"seqq":6,"ts":1493839042634}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":7,"seqq":7,"ts":1493839046961}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":8,"seqq":8,"ts":1493839051479}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493839058920,"fcnt":1,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":9,"seqq":9,"ts":1493839059126}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493839058920,"fcnt":1,"port":1,"freq":903100000,"toa":329,"dr":"SF10 BW125 4/5","ack":false,"gws":[{"rssi":-100,"snr":9.8,"ts":1493839058920,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":10,"seqq":10,"ts":1493839063124}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":11,"seqq":11,"ts":1493839067628}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":12,"seqq":12,"ts":1493839071961}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":13,"seqq":13,"ts":1493839076402}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":14,"seqq":14,"ts":1493839080732}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":15,"seqq":15,"ts":1493839085151}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":16,"seqq":16,"ts":1493839089493}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":17,"seqq":17,"ts":1493839093930}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493839101484,"fcnt":2,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":18,"seqq":18,"ts":1493839101689}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493839101484,"fcnt":2,"port":1,"freq":902300000,"toa":329,"dr":"SF10 BW125 4/5","ack":false,"gws":[{"rssi":-111,"snr":5.8,"ts":1493839101484,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":19,"seqq":19,"ts":1493839105755}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":20,"seqq":20,"ts":1493839110096}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":21,"seqq":21,"ts":1493839114514}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":22,"seqq":22,"ts":1493839118926}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":23,"seqq":23,"ts":1493839123258}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":24,"seqq":24,"ts":1493839127760}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":25,"seqq":25,"ts":1493839132086}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":26,"seqq":26,"ts":1493839136499}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493839144073,"fcnt":3,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":27,"seqq":27,"ts":1493839144279}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493839144073,"fcnt":3,"port":1,"freq":903500000,"toa":329,"dr":"SF10 BW125 4/5","ack":false,"gws":[{"rssi":-107,"snr":5.2,"ts":1493839144073,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":28,"seqq":28,"ts":1493839148347}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":29,"seqq":29,"ts":1493839152699}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":30,"seqq":30,"ts":1493839157142}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":31,"seqq":31,"ts":1493839161596}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":32,"seqq":32,"ts":1493839165986}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":33,"seqq":33,"ts":1493839170340}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":34,"seqq":34,"ts":1493839174658}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":35,"seqq":35,"ts":1493839179149}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493839186617,"fcnt":4,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":36,"seqq":36,"ts":1493839186824}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493839186617,"fcnt":4,"port":1,"freq":902700000,"toa":329,"dr":"SF10 BW125 4/5","ack":false,"gws":[{"rssi":-113,"snr":2,"ts":1493839186617,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":37,"seqq":37,"ts":1493839190828}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":38,"seqq":38,"ts":1493839195275}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":39,"seqq":39,"ts":1493839199701}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":40,"seqq":40,"ts":1493839204075}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":41,"seqq":41,"ts":1493839208397}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":42,"seqq":42,"ts":1493839212841}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":43,"seqq":43,"ts":1493839217237}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":44,"seqq":44,"ts":1493839221573}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493839229232,"fcnt":5,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":45,"seqq":45,"ts":1493839229438}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493839229232,"fcnt":5,"port":1,"freq":903500000,"toa":329,"dr":"SF10 BW125 4/5","ack":false,"gws":[{"rssi":-104,"snr":5.5,"ts":1493839229232,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":46,"seqq":46,"ts":1493839233433}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":47,"seqq":47,"ts":1493839237799}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":48,"seqq":48,"ts":1493839242210}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":49,"seqq":49,"ts":1493839246605}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":50,"seqq":50,"ts":1493839251225}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":51,"seqq":51,"ts":1493839255386}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":52,"seqq":52,"ts":1493839259779}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":53,"seqq":53,"ts":1493839264185}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493839271682,"fcnt":6,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":54,"seqq":54,"ts":1493839271888}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493839271682,"fcnt":6,"port":1,"freq":902500000,"toa":329,"dr":"SF10 BW125 4/5","ack":false,"gws":[{"rssi":-113,"snr":0.2,"ts":1493839271682,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":55,"seqq":55,"ts":1493839276014}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":56,"seqq":56,"ts":1493839280358}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":57,"seqq":57,"ts":1493839284748}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":58,"seqq":58,"ts":1493839289200}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":59,"seqq":59,"ts":1493839293613}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":60,"seqq":60,"ts":1493839297962}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":61,"seqq":61,"ts":1493839302378}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":62,"seqq":62,"ts":1493839306740}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493839314350,"fcnt":7,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":63,"seqq":63,"ts":1493839314557}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493839314350,"fcnt":7,"port":1,"freq":902300000,"toa":329,"dr":"SF10 BW125 4/5","ack":false,"gws":[{"rssi":-113,"snr":3.5,"ts":1493839314350,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":64,"seqq":64,"ts":1493839318660}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":65,"seqq":65,"ts":1493839322970}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":66,"seqq":66,"ts":1493839327422}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":67,"seqq":67,"ts":1493839331738}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":68,"seqq":68,"ts":1493839336159}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":69,"seqq":69,"ts":1493839340566}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":70,"seqq":70,"ts":1493839344894}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":71,"seqq":71,"ts":1493839349498}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493839356913,"fcnt":8,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":72,"seqq":72,"ts":1493839357121}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493839356913,"fcnt":8,"port":1,"freq":903100000,"toa":329,"dr":"SF10 BW125 4/5","ack":false,"gws":[{"rssi":-114,"snr":-2.8,"ts":1493839356913,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":73,"seqq":73,"ts":1493839365905}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":74,"seqq":74,"ts":1493839369942}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":75,"seqq":75,"ts":1493839374261}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":76,"seqq":76,"ts":1493839378636}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":77,"seqq":77,"ts":1493839383181}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":78,"seqq":78,"ts":1493839387418}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":79,"seqq":79,"ts":1493839391828}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493839399278,"fcnt":9,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":80,"seqq":80,"ts":1493839399484}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493839399278,"fcnt":9,"port":1,"freq":902900000,"toa":329,"dr":"SF10 BW125 4/5","ack":false,"gws":[{"rssi":-117,"snr":-6,"ts":1493839399278,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":81,"seqq":81,"ts":1493839403614}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":82,"seqq":82,"ts":1493839407990}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":83,"seqq":83,"ts":1493839412418}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":84,"seqq":84,"ts":1493839416793}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":85,"seqq":85,"ts":1493839421129}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":86,"seqq":86,"ts":1493839425566}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":87,"seqq":87,"ts":1493839429944}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":88,"seqq":88,"ts":1493839434348}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493839442139,"fcnt":10,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":89,"seqq":89,"ts":1493839442345}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493839442139,"fcnt":10,"port":1,"freq":903700000,"toa":329,"dr":"SF10 BW125 4/5","ack":false,"gws":[{"rssi":-102,"snr":6.2,"ts":1493839442139,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":90,"seqq":90,"ts":1493839446298}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":91,"seqq":91,"ts":1493839451118}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":92,"seqq":92,"ts":1493839454966}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":93,"seqq":93,"ts":1493839459426}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":94,"seqq":94,"ts":1493839463716}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":95,"seqq":95,"ts":1493839468117}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":96,"seqq":96,"ts":1493839472502}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":97,"seqq":97,"ts":1493839476921}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493839488178,"fcnt":0,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":0,"seqq":0,"ts":1493839488383}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493839488178,"fcnt":0,"port":1,"freq":902900000,"toa":51,"dr":"SF7 BW125 4/5","ack":false,"gws":[{"rssi":-82,"snr":8,"ts":1493839488178,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":1,"seqq":1,"ts":1493839491432}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":2,"seqq":2,"ts":1493839495559}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":3,"seqq":3,"ts":1493839499707}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":4,"seqq":4,"ts":1493839504049}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":5,"seqq":5,"ts":1493839508233}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":6,"seqq":6,"ts":1493839512679}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":7,"seqq":7,"ts":1493839517029}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":8,"seqq":8,"ts":1493839521401}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493839528967,"fcnt":1,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":9,"seqq":9,"ts":1493839529173}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493839528967,"fcnt":1,"port":1,"freq":902700000,"toa":329,"dr":"SF10 BW125 4/5","ack":false,"gws":[{"rssi":-95,"snr":8.2,"ts":1493839528967,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":10,"seqq":10,"ts":1493839533185}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":11,"seqq":11,"ts":1493839537602}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":12,"seqq":12,"ts":1493839542100}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":13,"seqq":13,"ts":1493839546353}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":14,"seqq":14,"ts":1493839550800}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":15,"seqq":15,"ts":1493839555134}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":16,"seqq":16,"ts":1493839559604}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":17,"seqq":17,"ts":1493839564044}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493839571507,"fcnt":2,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":18,"seqq":18,"ts":1493839571713}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493839571507,"fcnt":2,"port":1,"freq":902900000,"toa":329,"dr":"SF10 BW125 4/5","ack":false,"gws":[{"rssi":-47,"snr":8.8,"ts":1493839571507,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":19,"seqq":19,"ts":1493839575808}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":20,"seqq":20,"ts":1493839580205}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":21,"seqq":21,"ts":1493839584700}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":22,"seqq":22,"ts":1493839588998}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":23,"seqq":23,"ts":1493839593385}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":24,"seqq":24,"ts":1493839597840}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":25,"seqq":25,"ts":1493839602246}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":26,"seqq":26,"ts":1493839606516}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493839617862,"fcnt":0,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":0,"seqq":0,"ts":1493839618069}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493839617862,"fcnt":0,"port":1,"freq":902700000,"toa":51,"dr":"SF7 BW125 4/5","ack":false,"gws":[{"rssi":-36,"snr":9.2,"ts":1493839617862,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":1,"seqq":1,"ts":1493839620109}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493839626322,"fcnt":1,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":2,"seqq":2,"ts":1493839626527}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493839626322,"fcnt":1,"port":1,"freq":902900000,"toa":92,"dr":"SF8 BW125 4/5","ack":false,"gws":[{"rssi":-35,"snr":10.5,"ts":1493839626322,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493839632292,"fcnt":2,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":3,"seqq":3,"ts":1493839632499}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493839632292,"fcnt":2,"port":1,"freq":902700000,"toa":92,"dr":"SF8 BW125 4/5","ack":false,"gws":[{"rssi":-35,"snr":11.2,"ts":1493839632292,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493839638643,"fcnt":3,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":4,"seqq":4,"ts":1493839638849}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493839638643,"fcnt":3,"port":1,"freq":902700000,"toa":92,"dr":"SF8 BW125 4/5","ack":false,"gws":[{"rssi":-35,"snr":11.5,"ts":1493839638643,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493839644632,"fcnt":4,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":5,"seqq":5,"ts":1493839644839}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493839644632,"fcnt":4,"port":1,"freq":902300000,"toa":92,"dr":"SF8 BW125 4/5","ack":false,"gws":[{"rssi":-37,"snr":11.8,"ts":1493839644632,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493839650803,"fcnt":5,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":6,"seqq":6,"ts":1493839651010}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493839650803,"fcnt":5,"port":1,"freq":903100000,"toa":92,"dr":"SF8 BW125 4/5","ack":false,"gws":[{"rssi":-35,"snr":11,"ts":1493839650803,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493839657053,"fcnt":6,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":7,"seqq":7,"ts":1493839657259}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493839657053,"fcnt":6,"port":1,"freq":902700000,"toa":92,"dr":"SF8 BW125 4/5","ack":false,"gws":[{"rssi":-35,"snr":10.8,"ts":1493839657053,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493839663273,"fcnt":7,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":8,"seqq":8,"ts":1493839663479}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493839663273,"fcnt":7,"port":1,"freq":903300000,"toa":92,"dr":"SF8 BW125 4/5","ack":false,"gws":[{"rssi":-35,"snr":11.2,"ts":1493839663273,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493839669363,"fcnt":8,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":9,"seqq":9,"ts":1493839669568}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493839669363,"fcnt":8,"port":1,"freq":902300000,"toa":92,"dr":"SF8 BW125 4/5","ack":false,"gws":[{"rssi":-39,"snr":11.5,"ts":1493839669363,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493839675552,"fcnt":9,"port":1,"ack":true,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":10,"seqq":10,"ts":1493839675759}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493839675552,"fcnt":9,"port":1,"freq":903500000,"toa":102,"dr":"SF8 BW125 4/5","ack":true,"gws":[{"rssi":-33,"snr":11,"ts":1493839675552,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"rx","EUI":"0004A30B001A5B19","ts":1493839681772,"fcnt":10,"port":1,"ack":false,"data":"534f444151"}
+{"cmd":"txd","EUI":"0004A30B001A5B19","seqdn":11,"seqq":11,"ts":1493839681977}
+{"cmd":"gw","EUI":"0004A30B001A5B19","ts":1493839681772,"fcnt":10,"port":1,"freq":902900000,"toa":92,"dr":"SF8 BW125 4/5","ack":false,"gws":[{"rssi":-39,"snr":10.5,"ts":1493839681772,"gweui":"000800FFFF4A07E1"}],"data":"534f444151"}
+{"cmd":"rx","EUI":"0004A30B001F5673","ts":1493841842928,"fcnt":0,"port":1,"ack":false,"data":"34302e3738312c302e3030302c302e3030302c302e3030302c33363232"}
+{"cmd":"txd","EUI":"0004A30B001F5673","seqdn":0,"seqq":0,"ts":1493841843136}
+{"cmd":"gw","EUI":"0004A30B001F5673","ts":1493841842928,"fcnt":0,"port":1,"freq":902900000,"toa":87,"dr":"SF7 BW125 4/5","ack":false,"gws":[{"rssi":-113,"snr":5.2,"ts":1493841842928,"gweui":"000800FFFF4A07E1"}],"data":"34302e3738312c302e3030302c302e3030302c302e3030302c33363232"}
+{"cmd":"rx","EUI":"0004A30B001ED992","ts":1493852254037,"fcnt":0,"port":1,"ack":false,"data":"34322e3738312c302e3030302c302e3030302c302e3030302c33363337"}
+{"cmd":"txd","EUI":"0004A30B001ED992","seqdn":0,"seqq":0,"ts":1493852254244}
+{"cmd":"gw","EUI":"0004A30B001ED992","ts":1493852254037,"fcnt":0,"port":1,"freq":903500000,"toa":87,"dr":"SF7 BW125 4/5","ack":false,"gws":[{"rssi":-117,"snr":-1.8,"ts":1493852254037,"gweui":"000800FFFF4A07E1"}],"data":"34322e3738312c302e3030302c302e3030302c302e3030302c33363337"}
+{"cmd":"txd","EUI":"0004A30B001ED992","seqdn":1,"seqq":1,"ts":1493852257276}
+{"cmd":"txd","EUI":"0004A30B001ED992","seqdn":2,"seqq":2,"ts":1493852261502}
+{"cmd":"txd","EUI":"0004A30B001ED992","seqdn":3,"seqq":3,"ts":1493852265484}
+{"cmd":"rx","EUI":"0004A30B001ED992","ts":1493852296024,"fcnt":0,"port":1,"ack":false,"data":"34322e3738312c302e3030302c302e3030302c302e3030302c33363337"}
+{"cmd":"txd","EUI":"0004A30B001ED992","seqdn":0,"seqq":0,"ts":1493852296231}
+{"cmd":"gw","EUI":"0004A30B001ED992","ts":1493852296024,"fcnt":0,"port":1,"freq":902500000,"toa":87,"dr":"SF7 BW125 4/5","ack":false,"gws":[{"rssi":-118,"snr":-3.5,"ts":1493852296024,"gweui":"000800FFFF4A07E1"}],"data":"34322e3738312c302e3030302c302e3030302c302e3030302c33363337"}
+{"cmd":"txd","EUI":"0004A30B001ED992","seqdn":1,"seqq":1,"ts":1493852300327}
+{"cmd":"txd","EUI":"0004A30B001ED992","seqdn":2,"seqq":2,"ts":1493852305294}
+{"cmd":"txd","EUI":"0004A30B001ED992","seqdn":3,"seqq":3,"ts":1493852308759}
+{"cmd":"txd","EUI":"0004A30B001ED992","seqdn":4,"seqq":4,"ts":1493852312736}
+{"cmd":"txd","EUI":"0004A30B001ED992","seqdn":5,"seqq":5,"ts":1493852317269}
+{"cmd":"rx","EUI":"0004A30B001ED992","ts":1493852340239,"fcnt":0,"port":1,"ack":false,"data":"34322e3738312c302e3030302c302e3030302c302e3030302c33363337"}
+{"cmd":"txd","EUI":"0004A30B001ED992","seqdn":0,"seqq":0,"ts":1493852340446}
+{"cmd":"gw","EUI":"0004A30B001ED992","ts":1493852340239,"fcnt":0,"port":1,"freq":903500000,"toa":87,"dr":"SF7 BW125 4/5","ack":false,"gws":[{"rssi":-114,"snr":-0.5,"ts":1493852340239,"gweui":"000800FFFF4A07E1"}],"data":"34322e3738312c302e3030302c302e3030302c302e3030302c33363337"}
+{"cmd":"txd","EUI":"0004A30B001ED992","seqdn":1,"seqq":1,"ts":1493852343124}
+{"cmd":"txd","EUI":"0004A30B001ED992","seqdn":2,"seqq":2,"ts":1493852347300}
+{"cmd":"txd","EUI":"0004A30B001ED992","seqdn":3,"seqq":3,"ts":1493852351402}
+{"cmd":"txd","EUI":"0004A30B001ED992","seqdn":4,"seqq":4,"ts":1493852355769}
+{"cmd":"txd","EUI":"0004A30B001ED992","seqdn":5,"seqq":5,"ts":1493852360148}
+{"cmd":"rx","EUI":"0004A30B001ED992","ts":1493852381674,"fcnt":0,"port":1,"ack":false,"data":"34322e3738312c302e3030302c302e3030302c302e3030302c33363337"}
+{"cmd":"txd","EUI":"0004A30B001ED992","seqdn":0,"seqq":0,"ts":1493852381880}
+{"cmd":"gw","EUI":"0004A30B001ED992","ts":1493852381674,"fcnt":0,"port":1,"freq":902700000,"toa":87,"dr":"SF7 BW125 4/5","ack":false,"gws":[{"rssi":-119,"snr":6,"ts":1493852381674,"gweui":"000800FFFF4A07E1"}],"data":"34322e3738312c302e3030302c302e3030302c302e3030302c33363337"}
+{"cmd":"txd","EUI":"0004A30B001ED992","seqdn":1,"seqq":1,"ts":1493852385781}
+{"cmd":"txd","EUI":"0004A30B001ED992","seqdn":2,"seqq":2,"ts":1493852390053}
+{"cmd":"txd","EUI":"0004A30B001ED992","seqdn":3,"seqq":3,"ts":1493852394418}
+{"cmd":"txd","EUI":"0004A30B001ED992","seqdn":4,"seqq":4,"ts":1493852399062}
+{"cmd":"txd","EUI":"0004A30B001ED992","seqdn":5,"seqq":5,"ts":1493852402970}
+{"cmd":"rx","EUI":"0004A30B001ED992","ts":1493852424871,"fcnt":0,"port":1,"ack":false,"data":"34322e3738312c302e3030302c302e3030302c302e3030302c33363337"}
+{"cmd":"txd","EUI":"0004A30B001ED992","seqdn":0,"seqq":0,"ts":1493852425079}
+{"cmd":"gw","EUI":"0004A30B001ED992","ts":1493852424871,"fcnt":0,"port":1,"freq":902900000,"toa":87,"dr":"SF7 BW125 4/5","ack":false,"gws":[{"rssi":-119,"snr":-2.5,"ts":1493852424871,"gweui":"000800FFFF4A07E1"}],"data":"34322e3738312c302e3030302c302e3030302c302e3030302c33363337"}
+{"cmd":"txd","EUI":"0004A30B001ED992","seqdn":1,"seqq":1,"ts":1493852428755}
+{"cmd":"txd","EUI":"0004A30B001ED992","seqdn":2,"seqq":2,"ts":1493852433270}
+{"cmd":"txd","EUI":"0004A30B001ED992","seqdn":3,"seqq":3,"ts":1493852437393}
+{"cmd":"txd","EUI":"0004A30B001ED992","seqdn":4,"seqq":4,"ts":1493852441621}
+{"cmd":"txd","EUI":"0004A30B001ED992","seqdn":5,"seqq":5,"ts":1493852445893}
+{"cmd":"rx","EUI":"0004A30B001ED992","ts":1493852508627,"fcnt":0,"port":1,"ack":false,"data":"34322e3738312c302e3030302c302e3030302c302e3030302c33363337"}
+{"cmd":"txd","EUI":"0004A30B001ED992","seqdn":0,"seqq":0,"ts":1493852508834}
+{"cmd":"gw","EUI":"0004A30B001ED992","ts":1493852508627,"fcnt":0,"port":1,"freq":902900000,"toa":87,"dr":"SF7 BW125 4/5","ack":false,"gws":[{"rssi":-119,"snr":-0.8,"ts":1493852508627,"gweui":"000800FFFF4A07E1"}],"data":"34322e3738312c302e3030302c302e3030302c302e3030302c33363337"}
+{"cmd":"txd","EUI":"0004A30B001ED992","seqdn":1,"seqq":1,"ts":1493852513105}
+{"cmd":"txd","EUI":"0004A30B001ED992","seqdn":2,"seqq":2,"ts":1493852517315}
+{"cmd":"txd","EUI":"0004A30B001ED992","seqdn":3,"seqq":3,"ts":1493852521550}
+{"cmd":"txd","EUI":"0004A30B001ED992","seqdn":4,"seqq":4,"ts":1493852525851}
+{"cmd":"rx","EUI":"0004A30B001F2130","ts":1493856449584,"fcnt":0,"port":1,"ack":false,"data":"34312e3138382c302e3030302c302e3030302c302e3030302c33363038"}
+{"cmd":"txd","EUI":"0004A30B001F2130","seqdn":0,"seqq":0,"ts":1493856449791}
+{"cmd":"gw","EUI":"0004A30B001F2130","ts":1493856449584,"fcnt":0,"port":1,"freq":902900000,"toa":87,"dr":"SF7 BW125 4/5","ack":false,"gws":[{"rssi":-111,"snr":5.8,"ts":1493856449584,"gweui":"000800FFFF4A07E1"}],"data":"34312e3138382c302e3030302c302e3030302c302e3030302c33363038"}
+{"cmd":"txd","EUI":"0004A30B001F2130","seqdn":1,"seqq":1,"ts":1493856453265}
+{"cmd":"txd","EUI":"0004A30B001F2130","seqdn":2,"seqq":2,"ts":1493856457263}
+{"cmd":"txd","EUI":"0004A30B001F2130","seqdn":3,"seqq":3,"ts":1493856461508}
+{"cmd":"txd","EUI":"0004A30B001F2130","seqdn":4,"seqq":4,"ts":1493856465668}
+{"cmd":"txd","EUI":"0004A30B001F2130","seqdn":5,"seqq":5,"ts":1493856470284}
+{"cmd":"rx","EUI":"0004A30B001F2130","ts":1493856492195,"fcnt":0,"port":1,"ack":false,"data":"34312e3138382c302e3030302c302e3030302c302e3030302c33363038"}
+{"cmd":"txd","EUI":"0004A30B001F2130","seqdn":0,"seqq":0,"ts":1493856492402}
+{"cmd":"gw","EUI":"0004A30B001F2130","ts":1493856492195,"fcnt":0,"port":1,"freq":903300000,"toa":87,"dr":"SF7 BW125 4/5","ack":false,"gws":[{"rssi":-105,"snr":8,"ts":1493856492195,"gweui":"000800FFFF4A07E1"}],"data":"34312e3138382c302e3030302c302e3030302c302e3030302c33363038"}
+{"cmd":"txd","EUI":"0004A30B001F2130","seqdn":1,"seqq":1,"ts":1493856496262}
+{"cmd":"txd","EUI":"0004A30B001F2130","seqdn":2,"seqq":2,"ts":1493856500449}
+{"cmd":"txd","EUI":"0004A30B001F2130","seqdn":3,"seqq":3,"ts":1493856504927}
+{"cmd":"txd","EUI":"0004A30B001F2130","seqdn":4,"seqq":4,"ts":1493856508841}
+{"cmd":"txd","EUI":"0004A30B001F2130","seqdn":5,"seqq":5,"ts":1493856513311}
+{"cmd":"rx","EUI":"0004A30B001F2130","ts":1493856535164,"fcnt":0,"port":1,"ack":false,"data":"34312e3138382c302e3030302c302e3030302c302e3030302c33363038"}
+{"cmd":"txd","EUI":"0004A30B001F2130","seqdn":0,"seqq":0,"ts":1493856535370}
+{"cmd":"gw","EUI":"0004A30B001F2130","ts":1493856535164,"fcnt":0,"port":1,"freq":902500000,"toa":87,"dr":"SF7 BW125 4/5","ack":false,"gws":[{"rssi":-112,"snr":6.5,"ts":1493856535164,"gweui":"000800FFFF4A07E1"}],"data":"34312e3138382c302e3030302c302e3030302c302e3030302c33363038"}
+{"cmd":"txd","EUI":"0004A30B001F2130","seqdn":1,"seqq":1,"ts":1493856539028}
+{"cmd":"txd","EUI":"0004A30B001F2130","seqdn":2,"seqq":2,"ts":1493856543220}
+{"cmd":"txd","EUI":"0004A30B001F2130","seqdn":3,"seqq":3,"ts":1493856547518}
+{"cmd":"txd","EUI":"0004A30B001F2130","seqdn":4,"seqq":4,"ts":1493856552054}
+{"cmd":"txd","EUI":"0004A30B001F2130","seqdn":5,"seqq":5,"ts":1493856556157}
+{"cmd":"rx","EUI":"0004A30B001F2130","ts":1493856578118,"fcnt":0,"port":1,"ack":false,"data":"34312e3138382c302e3030302c302e3030302c302e3030302c33363038"}
+{"cmd":"txd","EUI":"0004A30B001F2130","seqdn":0,"seqq":0,"ts":1493856578323}
+{"cmd":"gw","EUI":"0004A30B001F2130","ts":1493856578118,"fcnt":0,"port":1,"freq":903500000,"toa":87,"dr":"SF7 BW125 4/5","ack":false,"gws":[{"rssi":-105,"snr":7.2,"ts":1493856578118,"gweui":"000800FFFF4A07E1"}],"data":"34312e3138382c302e3030302c302e3030302c302e3030302c33363038"}
+{"cmd":"txd","EUI":"0004A30B001F2130","seqdn":1,"seqq":1,"ts":1493856582052}
+{"cmd":"txd","EUI":"0004A30B001F2130","seqdn":2,"seqq":2,"ts":1493856586060}
+{"cmd":"txd","EUI":"0004A30B001F2130","seqdn":3,"seqq":3,"ts":1493856590298}
+{"cmd":"txd","EUI":"0004A30B001F2130","seqdn":4,"seqq":4,"ts":1493856594844}
+{"cmd":"txd","EUI":"0004A30B001F2130","seqdn":5,"seqq":5,"ts":1493856598998}
+{"cmd":"rx","EUI":"0004A30B001F2130","ts":1493856621045,"fcnt":0,"port":1,"ack":false,"data":"34312e3138382c302e3030302c302e3030302c302e3030302c33363038"}
+{"cmd":"txd","EUI":"0004A30B001F2130","seqdn":0,"seqq":0,"ts":1493856621251}
+{"cmd":"gw","EUI":"0004A30B001F2130","ts":1493856621045,"fcnt":0,"port":1,"freq":903700000,"toa":87,"dr":"SF7 BW125 4/5","ack":false,"gws":[{"rssi":-109,"snr":5.2,"ts":1493856621045,"gweui":"000800FFFF4A07E1"}],"data":"34312e3138382c302e3030302c302e3030302c302e3030302c33363038"}
+{"cmd":"txd","EUI":"0004A30B001F2130","seqdn":1,"seqq":1,"ts":1493856624778}
+{"cmd":"txd","EUI":"0004A30B001F2130","seqdn":2,"seqq":2,"ts":1493856629089}
+{"cmd":"txd","EUI":"0004A30B001F2130","seqdn":3,"seqq":3,"ts":1493856633300}
+{"cmd":"txd","EUI":"0004A30B001F2130","seqdn":4,"seqq":4,"ts":1493856637711}
+{"cmd":"txd","EUI":"0004A30B001F2130","seqdn":5,"seqq":5,"ts":1493856642150}
+{"cmd":"rx","EUI":"0004A30B001F2130","ts":1493856663833,"fcnt":0,"port":1,"ack":false,"data":"34312e3138382c302e3030302c302e3030302c302e3030302c33363038"}
+{"cmd":"txd","EUI":"0004A30B001F2130","seqdn":0,"seqq":0,"ts":1493856664041}
+{"cmd":"gw","EUI":"0004A30B001F2130","ts":1493856663833,"fcnt":0,"port":1,"freq":902300000,"toa":87,"dr":"SF7 BW125 4/5","ack":false,"gws":[{"rssi":-103,"snr":8.8,"ts":1493856663833,"gweui":"000800FFFF4A07E1"}],"data":"34312e3138382c302e3030302c302e3030302c302e3030302c33363038"}
+{"cmd":"txd","EUI":"0004A30B001F2130","seqdn":1,"seqq":1,"ts":1493856667864}
+{"cmd":"txd","EUI":"0004A30B001F2130","seqdn":2,"seqq":2,"ts":1493856672195}
+{"cmd":"txd","EUI":"0004A30B001F2130","seqdn":3,"seqq":3,"ts":1493856676323}
+{"cmd":"txd","EUI":"0004A30B001F2130","seqdn":4,"seqq":4,"ts":1493856680656}
+{"cmd":"txd","EUI":"0004A30B001F2130","seqdn":5,"seqq":5,"ts":1493856684978}
+{"cmd":"rx","EUI":"0004A30B001F2130","ts":1493856706914,"fcnt":0,"port":1,"ack":false,"data":"34312e3138382c302e3030302c302e3030302c302e3030302c33363038"}
+{"cmd":"txd","EUI":"0004A30B001F2130","seqdn":0,"seqq":0,"ts":1493856707120}
+{"cmd":"gw","EUI":"0004A30B001F2130","ts":1493856706914,"fcnt":0,"port":1,"freq":902500000,"toa":87,"dr":"SF7 BW125 4/5","ack":false,"gws":[{"rssi":-107,"snr":7.8,"ts":1493856706914,"gweui":"000800FFFF4A07E1"}],"data":"34312e3138382c302e3030302c302e3030302c302e3030302c33363038"}
+{"cmd":"txd","EUI":"0004A30B001F2130","seqdn":1,"seqq":1,"ts":1493856710848}
+{"cmd":"txd","EUI":"0004A30B001F2130","seqdn":2,"seqq":2,"ts":1493856715006}
+{"cmd":"txd","EUI":"0004A30B001F2130","seqdn":3,"seqq":3,"ts":1493856719515}
+{"cmd":"txd","EUI":"0004A30B001F2130","seqdn":4,"seqq":4,"ts":1493856724197}
+{"cmd":"txd","EUI":"0004A30B001F2130","seqdn":5,"seqq":5,"ts":1493856728071}
+{"cmd":"rx","EUI":"0004A30B001F2130","ts":1493856749330,"fcnt":0,"port":1,"ack":false,"data":"34312e3138382c302e3030302c302e3030302c302e3030302c33363038"}
+{"cmd":"txd","EUI":"0004A30B001F2130","seqdn":0,"seqq":0,"ts":1493856749537}
+{"cmd":"gw","EUI":"0004A30B001F2130","ts":1493856749330,"fcnt":0,"port":1,"freq":902700000,"toa":87,"dr":"SF7 BW125 4/5","ack":false,"gws":[{"rssi":-108,"snr":7.2,"ts":1493856749330,"gweui":"000800FFFF4A07E1"}],"data":"34312e3138382c302e3030302c302e3030302c302e3030302c33363038"}
+{"cmd":"txd","EUI":"0004A30B001F2130","seqdn":1,"seqq":1,"ts":1493856753680}
+{"cmd":"txd","EUI":"0004A30B001F2130","seqdn":2,"seqq":2,"ts":1493856758141}
+{"cmd":"txd","EUI":"0004A30B001F2130","seqdn":3,"seqq":3,"ts":1493856762167}
+{"cmd":"txd","EUI":"0004A30B001F2130","seqdn":4,"seqq":4,"ts":1493856766531}
+{"cmd":"txd","EUI":"0004A30B001F2130","seqdn":5,"seqq":5,"ts":1493856770822}
+{"cmd":"rx","EUI":"0004A30B001F0286","ts":1493869338554,"fcnt":0,"port":1,"ack":false,"data":"33342e3337352c302e3030302c302e3030302c302e3030302c33363332"}
+{"cmd":"txd","EUI":"0004A30B001F0286","seqdn":0,"seqq":0,"ts":1493869338764}
+{"cmd":"gw","EUI":"0004A30B001F0286","ts":1493869338554,"fcnt":0,"port":1,"freq":902500000,"toa":154,"dr":"SF8 BW125 4/5","ack":false,"gws":[{"rssi":-119,"snr":-9.5,"ts":1493869338554,"gweui":"000800FFFF4A07E1"}],"data":"33342e3337352c302e3030302c302e3030302c302e3030302c33363332"}
+{"cmd":"txd","EUI":"0004A30B001F0286","seqdn":1,"seqq":1,"ts":1493869343211}
+{"cmd":"txd","EUI":"0004A30B001F0286","seqdn":2,"seqq":2,"ts":1493869347236}
+{"cmd":"rx","EUI":"0004A30B001F0286","ts":1493869390066,"fcnt":0,"port":1,"ack":false,"data":"33342e3337352c302e3030302c302e3030302c302e3030302c33363332"}
+{"cmd":"txd","EUI":"0004A30B001F0286","seqdn":0,"seqq":0,"ts":1493869390274}
+{"cmd":"gw","EUI":"0004A30B001F0286","ts":1493869390066,"fcnt":0,"port":1,"freq":903100000,"toa":287,"dr":"SF9 BW125 4/5","ack":false,"gws":[{"rssi":-118,"snr":-12.5,"ts":1493869390066,"gweui":"000800FFFF4A07E1"}],"data":"33342e3337352c302e3030302c302e3030302c302e3030302c33363332"}
+{"cmd":"rx","EUI":"0004A30B001F0286","ts":1493869412041,"fcnt":0,"port":1,"ack":false,"data":"33342e3337352c302e3030302c302e3030302c302e3030302c33363332"}
+{"cmd":"txd","EUI":"0004A30B001F0286","seqdn":0,"seqq":0,"ts":1493869412247}
+{"cmd":"gw","EUI":"0004A30B001F0286","ts":1493869412041,"fcnt":0,"port":1,"freq":902500000,"toa":87,"dr":"SF7 BW125 4/5","ack":false,"gws":[{"rssi":-119,"snr":-4.5,"ts":1493869412041,"gweui":"000800FFFF4A07E1"}],"data":"33342e3337352c302e3030302c302e3030302c302e3030302c33363332"}
+{"cmd":"txd","EUI":"0004A30B001F0286","seqdn":1,"seqq":1,"ts":1493869421504}
+{"cmd":"txd","EUI":"0004A30B001F0286","seqdn":2,"seqq":2,"ts":1493869427603}
+{"cmd":"rx","EUI":"0004A30B001F5F75","ts":1493896324899,"fcnt":0,"port":1,"ack":false,"data":"32372e3837352c302e3030302c302e3030302c302e3030302c33373431"}
+{"cmd":"txd","EUI":"0004A30B001F5F75","seqdn":0,"seqq":0,"ts":1493896325106}
+{"cmd":"gw","EUI":"0004A30B001F5F75","ts":1493896324899,"fcnt":0,"port":1,"freq":902500000,"toa":287,"dr":"SF9 BW125 4/5","ack":false,"gws":[{"rssi":-114,"snr":-10.2,"ts":1493896324899,"gweui":"000800FFFF4A07E1"}],"data":"32372e3837352c302e3030302c302e3030302c302e3030302c33373431"}
+{"cmd":"rx","EUI":"0004A30B001F23FD","ts":1493951476681,"fcnt":0,"port":1,"ack":false,"data":"33332e3837352c302e3030302c302e3030302c302e3030302c33363635"}
+{"cmd":"txd","EUI":"0004A30B001F23FD","seqdn":0,"seqq":0,"ts":1493951476892}
+{"cmd":"gw","EUI":"0004A30B001F23FD","ts":1493951476681,"fcnt":0,"port":1,"freq":902500000,"toa":287,"dr":"SF9 BW125 4/5","ack":false,"gws":[{"rssi":-117,"snr":-2,"ts":1493951476681,"gweui":"000800FFFF4A07E1"}],"data":"33332e3837352c302e3030302c302e3030302c302e3030302c33363635"}
+{"cmd":"rx","EUI":"0004A30B001ED992","ts":1493955076960,"fcnt":0,"port":1,"ack":false,"data":"31392e3231392c302e3030302c302e3030302c302e3030302c33363730"}
+{"cmd":"txd","EUI":"0004A30B001ED992","seqdn":0,"seqq":0,"ts":1493955077166}
+{"cmd":"gw","EUI":"0004A30B001ED992","ts":1493955076960,"fcnt":0,"port":1,"freq":902500000,"toa":87,"dr":"SF7 BW125 4/5","ack":false,"gws":[{"rssi":-108,"snr":2.5,"ts":1493955076960,"gweui":"000800FFFF4A07E1"}],"data":"31392e3231392c302e3030302c302e3030302c302e3030302c33363730"}
+{"cmd":"txd","EUI":"0004A30B001ED992","seqdn":1,"seqq":1,"ts":1493955081305}
+{"cmd":"rx","EUI":"0004A30B001F5673","ts":1493962282659,"fcnt":0,"port":1,"ack":false,"data":"32322e3334342c302e3030302c302e3030302c302e3030302c33363730"}
+{"cmd":"txd","EUI":"0004A30B001F5673","seqdn":0,"seqq":0,"ts":1493962282866}
+{"cmd":"gw","EUI":"0004A30B001F5673","ts":1493962282659,"fcnt":0,"port":1,"freq":903100000,"toa":87,"dr":"SF7 BW125 4/5","ack":false,"gws":[{"rssi":-113,"snr":-6.5,"ts":1493962282659,"gweui":"000800FFFF4A07E1"}],"data":"32322e3334342c302e3030302c302e3030302c302e3030302c33363730"}
+{"cmd":"rx","EUI":"0004A30B001F19A7","ts":1493991404671,"fcnt":0,"port":1,"ack":false,"data":"32372e3033312c302e3030302c302e3030302c302e3030302c33363337"}
+{"cmd":"txd","EUI":"0004A30B001F19A7","seqdn":0,"seqq":0,"ts":1493991404876}
+{"cmd":"gw","EUI":"0004A30B001F19A7","ts":1493991404671,"fcnt":0,"port":1,"freq":902900000,"toa":154,"dr":"SF8 BW125 4/5","ack":false,"gws":[{"rssi":-117,"snr":-8.5,"ts":1493991404671,"gweui":"000800FFFF4A07E1"}],"data":"32372e3033312c302e3030302c302e3030302c302e3030302c33363337"}
+{"cmd":"txd","EUI":"0004A30B001F19A7","seqdn":1,"seqq":1,"ts":1493991408813}
+{"cmd":"rx","EUI":"0004A30B001F19A7","ts":1493991451806,"fcnt":0,"port":1,"ack":false,"data":"32372e3033312c302e3030302c302e3030302c302e3030302c33363337"}
+{"cmd":"txd","EUI":"0004A30B001F19A7","seqdn":0,"seqq":0,"ts":1493991452014}
+{"cmd":"gw","EUI":"0004A30B001F19A7","ts":1493991451806,"fcnt":0,"port":1,"freq":902500000,"toa":287,"dr":"SF9 BW125 4/5","ack":false,"gws":[{"rssi":-113,"snr":-10.5,"ts":1493991451806,"gweui":"000800FFFF4A07E1"}],"data":"32372e3033312c302e3030302c302e3030302c302e3030302c33363337"}
+{"cmd":"txd","EUI":"0004A30B001F19A7","seqdn":1,"seqq":1,"ts":1493991456087}
+{"cmd":"rx","EUI":"0004A30B001F19A7","ts":1493991499111,"fcnt":0,"port":1,"ack":false,"data":"32372e3033312c302e3030302c302e3030302c302e3030302c33363337"}
+{"cmd":"txd","EUI":"0004A30B001F19A7","seqdn":0,"seqq":0,"ts":1493991499318}
+{"cmd":"gw","EUI":"0004A30B001F19A7","ts":1493991499111,"fcnt":0,"port":1,"freq":902700000,"toa":287,"dr":"SF9 BW125 4/5","ack":false,"gws":[{"rssi":-119,"snr":-10,"ts":1493991499111,"gweui":"000800FFFF4A07E1"}],"data":"32372e3033312c302e3030302c302e3030302c302e3030302c33363337"}
+{"cmd":"rx","EUI":"0004A30B001F19A7","ts":1493991537821,"fcnt":0,"port":1,"ack":false,"data":"32372e3033312c302e3030302c302e3030302c302e3030302c33363337"}
+{"cmd":"txd","EUI":"0004A30B001F19A7","seqdn":0,"seqq":0,"ts":1493991538027}
+{"cmd":"gw","EUI":"0004A30B001F19A7","ts":1493991537821,"fcnt":0,"port":1,"freq":902700000,"toa":287,"dr":"SF9 BW125 4/5","ack":false,"gws":[{"rssi":-113,"snr":-10.8,"ts":1493991537821,"gweui":"000800FFFF4A07E1"}],"data":"32372e3033312c302e3030302c302e3030302c302e3030302c33363337"}
+{"cmd":"txd","EUI":"0004A30B001F19A7","seqdn":1,"seqq":1,"ts":1493991541977}
+{"cmd":"rx","EUI":"0004A30B001F19A7","ts":1493991563925,"fcnt":0,"port":1,"ack":false,"data":"32372e3033312c302e3030302c302e3030302c302e3030302c33363337"}
+{"cmd":"txd","EUI":"0004A30B001F19A7","seqdn":0,"seqq":0,"ts":1493991564130}
+{"cmd":"gw","EUI":"0004A30B001F19A7","ts":1493991563925,"fcnt":0,"port":1,"freq":902500000,"toa":87,"dr":"SF7 BW125 4/5","ack":false,"gws":[{"rssi":-114,"snr":-4.2,"ts":1493991563925,"gweui":"000800FFFF4A07E1"}],"data":"32372e3033312c302e3030302c302e3030302c302e3030302c33363337"}
+{"cmd":"txd","EUI":"0004A30B001F19A7","seqdn":1,"seqq":1,"ts":1493991567943}
+{"cmd":"txd","EUI":"0004A30B001F19A7","seqdn":2,"seqq":2,"ts":1493991572111}
+{"cmd":"txd","EUI":"0004A30B001F19A7","seqdn":3,"seqq":3,"ts":1493991576280}
+{"cmd":"txd","EUI":"0004A30B001F19A7","seqdn":4,"seqq":4,"ts":1493991580684}
+{"cmd":"rx","EUI":"0004A30B001F19A7","ts":1493991625881,"fcnt":0,"port":1,"ack":false,"data":"32372e3033312c302e3030302c302e3030302c302e3030302c33363337"}
+{"cmd":"txd","EUI":"0004A30B001F19A7","seqdn":0,"seqq":0,"ts":1493991626088}
+{"cmd":"gw","EUI":"0004A30B001F19A7","ts":1493991625881,"fcnt":0,"port":1,"freq":902500000,"toa":87,"dr":"SF7 BW125 4/5","ack":false,"gws":[{"rssi":-118,"snr":-4,"ts":1493991625881,"gweui":"000800FFFF4A07E1"}],"data":"32372e3033312c302e3030302c302e3030302c302e3030302c33363337"}
+{"cmd":"txd","EUI":"0004A30B001F19A7","seqdn":1,"seqq":1,"ts":1493991629429}
+{"cmd":"txd","EUI":"0004A30B001F19A7","seqdn":2,"seqq":2,"ts":1493991633429}
+{"cmd":"txd","EUI":"0004A30B001F19A7","seqdn":3,"seqq":3,"ts":1493991637649}
+{"cmd":"txd","EUI":"0004A30B001F19A7","seqdn":4,"seqq":4,"ts":1493991642016}
+{"cmd":"txd","EUI":"0004A30B001F19A7","seqdn":5,"seqq":5,"ts":1493991646346}
+{"cmd":"rx","EUI":"0004A30B001F19A7","ts":1493991686346,"fcnt":0,"port":1,"ack":false,"data":"32372e3033312c302e3030302c302e3030302c302e3030302c33363337"}
+{"cmd":"txd","EUI":"0004A30B001F19A7","seqdn":0,"seqq":0,"ts":1493991686553}
+{"cmd":"gw","EUI":"0004A30B001F19A7","ts":1493991686346,"fcnt":0,"port":1,"freq":902300000,"toa":87,"dr":"SF7 BW125 4/5","ack":false,"gws":[{"rssi":-116,"snr":-3,"ts":1493991686346,"gweui":"000800FFFF4A07E1"}],"data":"32372e3033312c302e3030302c302e3030302c302e3030302c33363337"}
+{"cmd":"txd","EUI":"0004A30B001F19A7","seqdn":1,"seqq":1,"ts":1493991706916}
+{"cmd":"rx","EUI":"0004A30B001F2E9C","ts":1494025041856,"fcnt":0,"port":1,"ack":false,"data":"33382e3033312c302e3030302c302e3030302c302e3030302c33363839"}
+{"cmd":"txd","EUI":"0004A30B001F2E9C","seqdn":0,"seqq":0,"ts":1494025042062}
+{"cmd":"gw","EUI":"0004A30B001F2E9C","ts":1494025041856,"fcnt":0,"port":1,"freq":903300000,"toa":87,"dr":"SF7 BW125 4/5","ack":false,"gws":[{"rssi":-116,"snr":-5.8,"ts":1494025041856,"gweui":"000800FFFF4A07E1"}],"data":"33382e3033312c302e3030302c302e3030302c302e3030302c33363839"}
+{"cmd":"txd","EUI":"0004A30B001F2E9C","seqdn":1,"seqq":1,"ts":1494025050578}
+{"cmd":"txd","EUI":"0004A30B001F2E9C","seqdn":2,"seqq":2,"ts":1494025059273}
+{"cmd":"rx","EUI":"0004A30B001F2E9C","ts":1494025101968,"fcnt":0,"port":1,"ack":false,"data":"33382e3033312c302e3030302c302e3030302c302e3030302c33363839"}
+{"cmd":"txd","EUI":"0004A30B001F2E9C","seqdn":0,"seqq":0,"ts":1494025102175}
+{"cmd":"gw","EUI":"0004A30B001F2E9C","ts":1494025101968,"fcnt":0,"port":1,"freq":903500000,"toa":287,"dr":"SF9 BW125 4/5","ack":false,"gws":[{"rssi":-119,"snr":-7.2,"ts":1494025101968,"gweui":"000800FFFF4A07E1"}],"data":"33382e3033312c302e3030302c302e3030302c302e3030302c33363839"}
+{"cmd":"rx","EUI":"0004A30B001F2E9C","ts":1494025136258,"fcnt":0,"port":1,"ack":false,"data":"33382e3033312c302e3030302c302e3030302c302e3030302c33363839"}
+{"cmd":"txd","EUI":"0004A30B001F2E9C","seqdn":0,"seqq":0,"ts":1494025136465}
+{"cmd":"gw","EUI":"0004A30B001F2E9C","ts":1494025136258,"fcnt":0,"port":1,"freq":902700000,"toa":154,"dr":"SF8 BW125 4/5","ack":false,"gws":[{"rssi":-118,"snr":-11.8,"ts":1494025136258,"gweui":"000800FFFF4A07E1"}],"data":"33382e3033312c302e3030302c302e3030302c302e3030302c33363839"}
+{"cmd":"txd","EUI":"0004A30B001F2E9C","seqdn":1,"seqq":1,"ts":1494025140478}
+{"cmd":"txd","EUI":"0004A30B001F2E9C","seqdn":2,"seqq":2,"ts":1494025144803}
+{"cmd":"rx","EUI":"0004A30B001F2E9C","ts":1494025277378,"fcnt":0,"port":1,"ack":false,"data":"33382e3033312c302e3030302c302e3030302c302e3030302c33363839"}
+{"cmd":"txd","EUI":"0004A30B001F2E9C","seqdn":0,"seqq":0,"ts":1494025277584}
+{"cmd":"gw","EUI":"0004A30B001F2E9C","ts":1494025277378,"fcnt":0,"port":1,"freq":902700000,"toa":154,"dr":"SF8 BW125 4/5","ack":false,"gws":[{"rssi":-118,"snr":-10,"ts":1494025277378,"gweui":"000800FFFF4A07E1"}],"data":"33382e3033312c302e3030302c302e3030302c302e3030302c33363839"}
+{"cmd":"txd","EUI":"0004A30B001F2E9C","seqdn":1,"seqq":1,"ts":1494025281675}
+{"cmd":"rx","EUI":"0004A30B001F2E9C","ts":1494025372257,"fcnt":0,"port":1,"ack":false,"data":"33382e3033312c302e3030302c302e3030302c302e3030302c33363839"}
+{"cmd":"txd","EUI":"0004A30B001F2E9C","seqdn":0,"seqq":0,"ts":1494025372464}
+{"cmd":"gw","EUI":"0004A30B001F2E9C","ts":1494025372257,"fcnt":0,"port":1,"freq":903700000,"toa":287,"dr":"SF9 BW125 4/5","ack":false,"gws":[{"rssi":-120,"snr":-11,"ts":1494025372257,"gweui":"000800FFFF4A07E1"}],"data":"33382e3033312c302e3030302c302e3030302c302e3030302c33363839"}
+{"cmd":"rx","EUI":"0004A30B001F5F75","ts":1494034232698,"fcnt":0,"port":1,"ack":false,"data":"33322e3738312c302e3030302c302e3030302c302e3030302c33373331"}
+{"cmd":"txd","EUI":"0004A30B001F5F75","seqdn":0,"seqq":0,"ts":1494034232904}
+{"cmd":"gw","EUI":"0004A30B001F5F75","ts":1494034232698,"fcnt":0,"port":1,"freq":902700000,"toa":87,"dr":"SF7 BW125 4/5","ack":false,"gws":[{"rssi":-111,"snr":4.8,"ts":1494034232698,"gweui":"000800FFFF4A07E1"}],"data":"33322e3738312c302e3030302c302e3030302c302e3030302c33373331"}
+{"cmd":"txd","EUI":"0004A30B001F5F75","seqdn":1,"seqq":1,"ts":1494034236812}
+{"cmd":"txd","EUI":"0004A30B001F5F75","seqdn":2,"seqq":2,"ts":1494034245794}
+{"cmd":"txd","EUI":"0004A30B001F5F75","seqdn":3,"seqq":3,"ts":1494034249707}
+{"cmd":"rx","EUI":"0004A30B001F5F75","ts":1494034289638,"fcnt":0,"port":1,"ack":false,"data":"33322e3738312c302e3030302c302e3030302c302e3030302c33373331"}
+{"cmd":"txd","EUI":"0004A30B001F5F75","seqdn":0,"seqq":0,"ts":1494034289845}
+{"cmd":"gw","EUI":"0004A30B001F5F75","ts":1494034289638,"fcnt":0,"port":1,"freq":902500000,"toa":87,"dr":"SF7 BW125 4/5","ack":false,"gws":[{"rssi":-117,"snr":-1.2,"ts":1494034289638,"gweui":"000800FFFF4A07E1"}],"data":"33322e3738312c302e3030302c302e3030302c302e3030302c33373331"}
+{"cmd":"txd","EUI":"0004A30B001F5F75","seqdn":1,"seqq":1,"ts":1494034293937}
+{"cmd":"txd","EUI":"0004A30B001F5F75","seqdn":2,"seqq":2,"ts":1494034298107}
+{"cmd":"txd","EUI":"0004A30B001F5F75","seqdn":3,"seqq":3,"ts":1494034302358}
+{"cmd":"txd","EUI":"0004A30B001F5F75","seqdn":4,"seqq":4,"ts":1494034306677}
+{"cmd":"rx","EUI":"0004A30B001F5F75","ts":1494034351275,"fcnt":0,"port":1,"ack":false,"data":"33322e3738312c302e3030302c302e3030302c302e3030302c33373331"}
+{"cmd":"txd","EUI":"0004A30B001F5F75","seqdn":0,"seqq":0,"ts":1494034351481}
+{"cmd":"gw","EUI":"0004A30B001F5F75","ts":1494034351275,"fcnt":0,"port":1,"freq":903300000,"toa":87,"dr":"SF7 BW125 4/5","ack":false,"gws":[{"rssi":-114,"snr":-2.2,"ts":1494034351275,"gweui":"000800FFFF4A07E1"}],"data":"33322e3738312c302e3030302c302e3030302c302e3030302c33373331"}
+{"cmd":"txd","EUI":"0004A30B001F5F75","seqdn":1,"seqq":1,"ts":1494034355331}
+{"cmd":"txd","EUI":"0004A30B001F5F75","seqdn":2,"seqq":2,"ts":1494034359536}
+{"cmd":"txd","EUI":"0004A30B001F5F75","seqdn":3,"seqq":3,"ts":1494034363901}
+{"cmd":"txd","EUI":"0004A30B001F5F75","seqdn":4,"seqq":4,"ts":1494034368071}
+{"cmd":"txd","EUI":"0004A30B001F5F75","seqdn":5,"seqq":5,"ts":1494034372452}
+{"cmd":"rx","EUI":"0004A30B001F5F75","ts":1494034398347,"fcnt":0,"port":1,"ack":false,"data":"33322e3738312c302e3030302c302e3030302c302e3030302c33373331"}
+{"cmd":"txd","EUI":"0004A30B001F5F75","seqdn":0,"seqq":0,"ts":1494034398552}
+{"cmd":"gw","EUI":"0004A30B001F5F75","ts":1494034398347,"fcnt":0,"port":1,"freq":903300000,"toa":87,"dr":"SF7 BW125 4/5","ack":false,"gws":[{"rssi":-114,"snr":1.8,"ts":1494034398347,"gweui":"000800FFFF4A07E1"}],"data":"33322e3738312c302e3030302c302e3030302c302e3030302c33373331"}
+{"cmd":"txd","EUI":"0004A30B001F5F75","seqdn":1,"seqq":1,"ts":1494034402430}
+{"cmd":"txd","EUI":"0004A30B001F5F75","seqdn":2,"seqq":2,"ts":1494034406666}
+{"cmd":"txd","EUI":"0004A30B001F5F75","seqdn":3,"seqq":3,"ts":1494034411017}
+{"cmd":"txd","EUI":"0004A30B001F5F75","seqdn":4,"seqq":4,"ts":1494034415350}
+{"cmd":"rx","EUI":"0004A30B001F2130","ts":1494034979399,"fcnt":0,"port":1,"ack":false,"data":"33312e3132352c302e3030302c302e3030302c302e3030302c33363237"}
+{"cmd":"txd","EUI":"0004A30B001F2130","seqdn":0,"seqq":0,"ts":1494034979604}
+{"cmd":"gw","EUI":"0004A30B001F2130","ts":1494034979399,"fcnt":0,"port":1,"freq":902900000,"toa":87,"dr":"SF7 BW125 4/5","ack":false,"gws":[{"rssi":-119,"snr":-2.5,"ts":1494034979399,"gweui":"000800FFFF4A07E1"}],"data":"33312e3132352c302e3030302c302e3030302c302e3030302c33363237"}
+{"cmd":"txd","EUI":"0004A30B001F2130","seqdn":1,"seqq":1,"ts":1494034983390}
+{"cmd":"txd","EUI":"0004A30B001F2130","seqdn":2,"seqq":2,"ts":1494034987641}
+{"cmd":"txd","EUI":"0004A30B001F2130","seqdn":3,"seqq":3,"ts":1494034991877}
+{"cmd":"txd","EUI":"0004A30B001F2130","seqdn":4,"seqq":4,"ts":1494034996198}
+{"cmd":"txd","EUI":"0004A30B001F2130","seqdn":5,"seqq":5,"ts":1494035000573}
+{"cmd":"rx","EUI":"0004A30B001F2130","ts":1494035022389,"fcnt":0,"port":1,"ack":false,"data":"33312e3132352c302e3030302c302e3030302c302e3030302c33363237"}
+{"cmd":"txd","EUI":"0004A30B001F2130","seqdn":0,"seqq":0,"ts":1494035022596}
+{"cmd":"gw","EUI":"0004A30B001F2130","ts":1494035022389,"fcnt":0,"port":1,"freq":902700000,"toa":87,"dr":"SF7 BW125 4/5","ack":false,"gws":[{"rssi":-113,"snr":0.8,"ts":1494035022389,"gweui":"000800FFFF4A07E1"}],"data":"33312e3132352c302e3030302c302e3030302c302e3030302c33363237"}
+{"cmd":"txd","EUI":"0004A30B001F2130","seqdn":1,"seqq":1,"ts":1494035026329}
+{"cmd":"txd","EUI":"0004A30B001F2130","seqdn":2,"seqq":2,"ts":1494035030574}
+{"cmd":"txd","EUI":"0004A30B001F2130","seqdn":3,"seqq":3,"ts":1494035034780}
+{"cmd":"txd","EUI":"0004A30B001F2130","seqdn":4,"seqq":4,"ts":1494035039165}
+{"cmd":"txd","EUI":"0004A30B001F2130","seqdn":5,"seqq":5,"ts":1494035043474}
+{"cmd":"rx","EUI":"0004A30B001F2130","ts":1494035065234,"fcnt":0,"port":1,"ack":false,"data":"33312e3132352c302e3030302c302e3030302c302e3030302c33363237"}
+{"cmd":"txd","EUI":"0004A30B001F2130","seqdn":0,"seqq":0,"ts":1494035065441}
+{"cmd":"gw","EUI":"0004A30B001F2130","ts":1494035065234,"fcnt":0,"port":1,"freq":902500000,"toa":87,"dr":"SF7 BW125 4/5","ack":false,"gws":[{"rssi":-113,"snr":-4.2,"ts":1494035065234,"gweui":"000800FFFF4A07E1"}],"data":"33312e3132352c302e3030302c302e3030302c302e3030302c33363237"}
+{"cmd":"txd","EUI":"0004A30B001F2130","seqdn":1,"seqq":1,"ts":1494035073842}
+{"cmd":"txd","EUI":"0004A30B001F2130","seqdn":2,"seqq":2,"ts":1494035077823}
+{"cmd":"txd","EUI":"0004A30B001F2130","seqdn":3,"seqq":3,"ts":1494035082087}
+{"cmd":"txd","EUI":"0004A30B001F2130","seqdn":4,"seqq":4,"ts":1494035086370}
+{"cmd":"rx","EUI":"0004A30B001F2130","ts":1494035107887,"fcnt":0,"port":1,"ack":false,"data":"33312e3132352c302e3030302c302e3030302c302e3030302c33363237"}
+{"cmd":"txd","EUI":"0004A30B001F2130","seqdn":0,"seqq":0,"ts":1494035108094}
+{"cmd":"gw","EUI":"0004A30B001F2130","ts":1494035107887,"fcnt":0,"port":1,"freq":902900000,"toa":87,"dr":"SF7 BW125 4/5","ack":false,"gws":[{"rssi":-114,"snr":3,"ts":1494035107887,"gweui":"000800FFFF4A07E1"}],"data":"33312e3132352c302e3030302c302e3030302c302e3030302c33363237"}
+{"cmd":"txd","EUI":"0004A30B001F2130","seqdn":1,"seqq":1,"ts":1494035112252}
+{"cmd":"txd","EUI":"0004A30B001F2130","seqdn":2,"seqq":2,"ts":1494035116464}
+{"cmd":"txd","EUI":"0004A30B001F2130","seqdn":3,"seqq":3,"ts":1494035120734}
+{"cmd":"txd","EUI":"0004A30B001F2130","seqdn":4,"seqq":4,"ts":1494035125051}
+{"cmd":"txd","EUI":"0004A30B001F2130","seqdn":5,"seqq":5,"ts":149403512936

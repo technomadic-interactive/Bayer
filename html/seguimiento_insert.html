@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Seguimiento</title>
+		<link rel="stylesheet" href="../bootstrap/css/bootstrap.min.css">
+	</head>
+	<body>
+	  <div class="container">
+	    <img src="../images/logo.png">
+	    </br></br>
+	    <ul class="nav nav-tabs" role="tablist">
+	    	    <li><a href="tag_insert.html">TAG</a></li>
+		    <li><a href="lote_insert.html">LOTE</a></li>
+		    <li><a href="vaca_insert.html">VACAS</a></li>
+		    <li><a href="tratamientos_insert.html">TRATAMIENTOS</a></li> 
+		     <li class="active"><a href="#">SEGUIMIENTO</a></li>
+		     <li><a href="vistas.html">DESCARGAS</a></li>       
+		  </ul>
+	  
+	   </br>
+	    <div class="center-block" >
+		
+	    </div>
+	    <br/>
+		<form class="form-horizontal" action="../php/prueba/Seguimiento/add_seguimiento.php" method="post">
+			<fieldset>
+
+			<!-- Form Name -->
+			<legend>Seguimiento</legend>
+
+			<!-- Text input-->
+			<div class="form-group">
+			  <label class="col-md-4 control-label" for="tag_id">TAG_ID</label>  
+			  <div class="col-md-4">
+			  <input id="tag_id" name="tag_id" type="text" placeholder="" class="form-control input-md" required="">
+			  <span class="help-block">Alfanumerico 16 caracteres</span>  
+			  </div>
+			</div>
+
+			<!-- Text input-->
+			<div class="form-group">
+			  <label class="col-md-4 control-label" for="lote_id">TRATAMIENTO_ID</label>  
+			  <div class="col-md-4">
+			  <input id="lote_id" name="tratamiento_id" type="text" placeholder="" class="form-control input-md" required="">
+			  <span class="help-block">Numerico</span>  
+			  </div>
+			</div>
+
+			<!-- Text input-->
+			<div class="form-group">
+			  <label class="col-md-4 control-label" for="peso">OBSERVACIONES</label>  
+			  <div class="col-md-4">
+			  <input id="peso" name="observaciones" type="text" placeholder="" class="form-control input-md" required="">
+			  <span class="help-block"></span>  
+			  </div>
+			</div>
+
+			<!-- Button -->
+			<div class="form-group">
+			  <label class="col-md-4 control-label" for="guardar"></label>
+			  <div class="col-md-4">
+			    <button id="insertar" name="insertar" class="btn btn-info">Insertar</button>
+			  </div>
+			</div>
+
+			</fieldset>
+		</form>
+	   
+	  </div><!--container-->
+		<script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
+	</body>
+</html>

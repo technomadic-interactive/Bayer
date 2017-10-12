@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+	<title>Ingreso</title>
+	<link rel="icon" href="../images/bayer.ico" type="image/ico">
+	<link rel="stylesheet" href="../bootstrap/css/bootstrap.min.css">
+	<link rel="stylesheet" href="../bootstrap/css/estilos.css">
+</head>
+<body>
+
+  <div class="container">
+	    <img src="../images/logo.png">
+	    </br></br>
+	    <ul class="nav nav-tabs" role="tablist">
+	    	<li class="active"><a href="#">INGRESO</a></li>
+	    	<li><a href="consulta.php">CONSULTA</a></li>
+		    <li><a href="enfermeria.html">ENFERMERÍA</a></li>
+		    <li><a href="tratamientos_insert.html">EXPEDIENTE</a></li> 
+		    <li><a href="baja.html">BAJA</a></li>   
+		    <li><a href="vistas.html">DESCARGAS</a></li>    
+		</ul>
+		<br>
+    </div>
+	
+	<form class="form-horizontal" action="../php/prueba/Lote/add_lote.php" method="post">
+	    <div class="container">
+	    <div class="row">
+	    	<div class="col-md-3"></div>
+	    	<div class="col-md-2">
+	    		<label for="">Fecha de Ingreso</label>
+	    	</div>
+	        <div class='col-md-4'>
+	            <div class="form-group">
+	                <div class='input-group date' id='datetimepicker1'>
+	                    <input id="fecha" type='text' class="form-control" />
+	                    <span class="input-group-addon">
+	                        <span class="glyphicon glyphicon-calendar"></span>
+	                    </span>
+	                </div>
+	            </div>
+	        </div>
+	        <script type="text/javascript">
+	            $(function ($) {
+	                $('#datetimepicker1').datetimepicker();
+	            });
+	        </script>
+	    	</div>
+		</div>
+
+		<div class="container">
+			<div class="row">
+				<div class="col-md-3"></div>
+				<div class="col-md-2">
+					<label for="">Proveniente</label>
+				</div>
+				<div class="col-md-4 form-group">
+					<input id="edad" name="proveniente" type="text" placeholder="" class="form-control input-md" required="">
+				</div>
+			</div>
+		</div>
+
+		<div class="container">
+			<div class="row">
+				<div class="col-md-3"></div>
+				<div class="col-md-2">
+					<label for="">Tag ID</label>
+				</div>
+				<div class="col-md-4 form-group">
+					<input id="individuos" name="tag_id" type="text" placeholder="" class="form-control input-md" required="">
+				</div>
+			</div>
+		</div>
+
+		<div class="container">
+			<div class="row">
+				<div class="col-md-3"></div>
+				<div class="col-md-2">
+					<label for="">Peso</label>
+				</div>
+				<div class="col-md-4 form-group">
+					<input id="peso" name="peso" type="text" placeholder="" class="form-control input-md" required="">
+				</div>
+			</div>
+		</div>
+
+		<div class="container">
+			<div class="row">
+				<div class="col-md-3"></div>
+				<div class="col-md-2">
+					<label for="">Temperatura</label>
+				</div>
+				<div class="col-md-4 form-group">
+					<input id="temperatura" name="temperatura" type="text" placeholder="" class="form-control input-md" required="">
+				</div>
+			</div>
+		</div>
+
+		<div class="container">
+			<div class="row">
+				<div class="col-md-3"></div>
+				<div class="col-md-2">
+					<label for="">Corral</label>
+				</div>
+				<div class="col-md-4 form-group">
+					<input id="corral" name="corral" type="text" placeholder="" class="form-control input-md" required="">
+				</div>
+			</div>
+		</div>
+
+		<div class="container">
+			<div class="row">
+				<div class="col-md-3"></div>
+				<div class="col-md-2">
+					<label for="">Lote</label>
+				</div>
+				<div class="col-md-4 form-group">
+					<input id="lote_id" name="lote_id" type="text" placeholder="" class="form-control input-md" required="">
+				</div>
+			</div>
+		</div>
+
+		<div class="container">
+			<div class="row">
+				<div class="col-md-3"></div>
+				<div class="col-md-2">
+					<label for="">Sexo</label>
+				</div>
+				<div class="form-group col-md-4">
+					<label class="radio-inline"> 
+			      		<input type="radio" name="sexo" value="hembra">Hembra
+			   	 	</label>
+			  		<label class="radio-inline">
+			      		<input type="radio" name="sexo" value="macho">Macho
+			  		</label>
+				</div>
+			</div>
+		</div>
+
+		
+
+		<div class="container">
+			<div class="row">
+				<div class="col-md-3"></div>
+				<div class="col-md-2">
+					<label for="">Riesgo</label>
+				</div>
+				<div class="form-group col-md-4">
+					<label class="radio-inline"> 
+			      		<input type="radio" name="riesgo" value="bajo">Bajo
+			   	 	</label>
+			  		<label class="radio-inline">
+			      		<input type="radio" name="riesgo" value="alto">Alto
+			  		</label>
+				</div>
+			</div>
+		</div>
+		
+
+
+		<div class="container">
+			<div class="row">
+				<div class="col-md-3"></div>
+				<div class="col-md-2">
+					<label for="">Enfermería</label>
+				</div>
+				<div class="form-group col-md-4">
+					<label class="radio-inline"> 
+			      		<input type="radio" name="enfermeria" value="no">No
+			   	 	</label>
+			  		<label class="radio-inline">
+			      		<input type="radio" name="enfermeria" value="si">Si
+			  		</label>
+				</div>
+			</div>
+		</div>
+
+
+
+		<div class="container">
+			<div class="row">
+				<div class="col-md-3"></div>
+				<div class="col-md-2">
+					<label for="">Comentarios:</label>
+				</div>
+				<div class="col-md-4 form-group">
+					<textarea class="form-control" rows="5" id="comentarios"></textarea>
+				</div>
+			</div>
+		</div>
+
+		<div class="form-group container">
+			<div class="row">
+				<div class="col-md-7"></div>
+				<div class="col-md-1">
+				    <button id="insertar" name="insertar" class="btn btn-info">Guardar</button>
+				</div>
+				<div class="col-md1"></div>
+				<div class="col-md-1">
+				    <button id="insertar" name="insertar" class="btn btn-info">Cancelar</button>
+				</div>
+				<div class="col-md-1">
+				    <button id="insertar" name="insertar" class="btn btn-info">Enviar a Enfermería</button>
+				</div>
+			</div>
+		</div>
+
+	</form>
+	
+	<script scr="../bootstrap/js/jquery.js"></script>
+	<script scr="../bootstrap/js/bootstrap.min.js"></script>
+</body>
+
+
+
+</html>

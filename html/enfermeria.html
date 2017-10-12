@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+	<title>Ingreso</title>
+	<link rel="icon" href="../images/bayer.ico" type="image/ico">
+	<link rel="stylesheet" href="../bootstrap/css/bootstrap.min.css">
+	<link rel="stylesheet" href="../bootstrap/css/estilos.css">
+</head>
+<body>
+
+  <div class="container">
+	    <img src="../images/logo.png">
+	    </br></br>
+	    <ul class="nav nav-tabs" role="tablist">
+	    	<li><a href="ingreso.html">INGRESO</a></li>
+		    <li><a href="consulta.php">CONSULTA</a></li>
+		    <li class="active"><a href="#">ENFERMERÍA</a></li>
+		    <li><a href="tratamientos_insert.html">EXPEDIENTE</a></li> 
+		    <li><a href="baja.html">BAJA</a></li>   
+		    <li><a href="vistas.html">DESCARGAS</a></li>    
+		</ul>
+		<br>
+    </div>
+	
+	<form class="form-horizontal" action="../php/prueba/Lote/add_lote.php" method="post">
+	    
+		<div class="container">
+			<div class="row">
+				<div class="col-md-2">
+					<label for="">Tag ID</label>
+				</div>
+				<div class="col-md-4 form-group">
+					<input id="edad" name="tag_id" type="text" placeholder="" class="form-control input-md" required="">
+				</div>
+				<div class="col-md-2">
+					<label for="">Corral</label>
+				</div>
+				<div class="col-md-4 form-group">
+					<input id="edad" name="corral" type="text" placeholder="" class="form-control input-md" required="">
+				</div>
+			</div>
+		</div>
+
+		<div class="container">
+			<div class="row">
+				<div class="col-md-2">
+					<label for="">Lote</label>
+				</div>
+				<div class="col-md-4 form-group">
+					<input id="edad" name="lote_id" type="text" placeholder="" class="form-control input-md" required="">
+				</div>
+				<div class="col-md-2">
+					<label for="">Peso</label>
+				</div>
+				<div class="col-md-4 form-group">
+					<input id="edad" name="peso" type="text" placeholder="" class="form-control input-md" required="">
+				</div>
+			</div>
+		</div>
+
+		<div class="container">
+			<div class="row">
+				<div class="col-md-2">
+					<label for="">Temperatura</label>
+				</div>
+				<div class="col-md-4 form-group">
+					<input id="edad" name="temperatura" type="text" placeholder="" class="form-control input-md" required="">
+				</div>
+				<div class="col-md-2">
+					<label for="">Días de Tratamiento</label>
+				</div>
+				<div class="col-md-4 form-group">
+					<input id="edad" name="dias" type="text" placeholder="" class="form-control input-md" required="">
+				</div>
+			</div>
+		</div>
+
+		<div class="container">
+	    <div class="row">
+	    	<div class="col-md-2">
+	    		<label for="">Fecha de Ingreso</label>
+	    	</div>
+	        <div class='col-md-3'>
+	            <div class="form-group">
+	                <div class='input-group date' id='datetimepicker1'>
+	                    <input id="fecha" type='text' class="form-control" />
+	                    <span class="input-group-addon">
+	                        <span class="glyphicon glyphicon-calendar"></span>
+	                    </span>
+	                </div>
+	            </div>
+	        </div>
+	        <script type="text/javascript">
+	            $(function () {
+	                $('#datetimepicker1').datetimepicker();
+	            });
+	        </script>
+			<div class="col-md-1"></div>
+	        <div class="col-md-2">
+	    		<label for="">Fecha de Ingreso</label>
+	    	</div>
+	        <div class='col-md-3'>
+	            <div class="form-group">
+	                <div class='input-group date' id='datetimepicker1'>
+	                    <input id="fecha" type='text' class="form-control" />
+	                    <span class="input-group-addon">
+	                        <span class="glyphicon glyphicon-calendar"></span>
+	                    </span>
+	                </div>
+	            </div>
+	        </div>
+	        <script type="text/javascript">
+	            $(function () {
+	                $('#datetimepicker1').datetimepicker();
+	            });
+	        </script>
+	    	</div>
+		</div>
+		
+		<div class="container">
+			<div class="row">
+				<div class="col-md-2">
+					<label for="">Padecimiento</label>
+				</div>
+				<div class="col-md-4 form-group">
+					<select name="padecimiento" id="padecimiento" class="form-control" id="exampleSelect1">
+						<option value="garrapatas">Garrapatas</option>
+						<option value="moquillo">Moquillo</option>
+						<option value="digestivo">Digestivo</option>
+						<option value="locomotor">Locomotor</option>
+						<option value="nervioso">Nervioso</option>
+					</select>
+				</div>
+				<div class="col-md-2">
+					<label for="">Medicamento</label>
+				</div>
+				<div class="col-md-4 form-group">
+					<select name="medicamento" id="medicamento" class="form-control">
+						<option value="paracetamol">Paracetamol</option>
+						<option value="desparacitante">Desparasitante</option>
+						<option value="anestesia">Anestesia</option>
+					</select>
+				</div>
+			</div>
+		</div>
+
+		<div class="container">
+			<div class="row">
+				<div class="col-md-2">
+					<label for="">Adyuvantes</label>
+				</div>
+				<div class="col-md-4 form-group">
+					<select name="adyuvantes" id="adyuvantes" class="form-control" id="exampleSelect1">
+						<option value="garrapatas">Garrapatas</option>
+						<option value="moquillo">Moquillo</option>
+						<option value="digestivo">Digestivo</option>
+						<option value="locomotor">Locomotor</option>
+						<option value="nervioso">Nervioso</option>
+					</select>
+				</div>
+				<div class="col-md-2">
+					<label for="">Tratamiento</label>
+				</div>
+				<div class="col-md-4 form-group">
+					<select name="medicamento" id="medicamento" class="form-control">
+						<option value="primero">Primero</option>
+						<option value="segundo">Segundo</option>
+						<option value="tercero">Tercero</option>
+						<option value="cuarto">Cuarto</option>
+					</select>
+				</div>
+			</div>
+		</div>
+
+		<div class="form-group container">
+			<div class="row">
+				<div class="col-md-6"></div>
+				<div class="col-md-1">
+				    <button id="insertar" name="insertar" class="btn btn-info">Crear Expediente</button>
+				</div>
+				<div class="col-md-2"></div>
+				<div class="col-md-1">
+				    <button id="insertar" name="insertar" class="btn btn-info">Dar de Alta</button>
+				</div>
+				<div class="col-md-1"></div>
+				<div class="col-md-1">
+				    <button id="insertar" name="insertar" class="btn btn-info">Mermar</button>
+				</div>
+			</div>
+		</div>
+
+	</form>
+	
+	<script scr="../bootstrap/js/jquery.js"></script>
+	<script scr="../bootstrap/js/bootstrap.min.js"></script>
+</body>
+
+
+
+</html>
