@@ -25,7 +25,7 @@ include "../../../connect.php";
 	    	<li><a href="ingreso.html">INGRESO</a></li>
 		    <li class="active"><a href="#">CONSULTA</a></li>
 		    <li><a href="enfermeria.html">ENFERMERÍA</a></li> 
-		    <li><a href="baja.html">EXPEDIENTE</a></li>   
+		    <li><a href="expediente.html">EXPEDIENTE</a></li>   
 		    <li><a href="baja.html">BAJA</a></li>   
 		    <li><a href="vistas.html">DESCARGAS</a></li>    
 		</ul>
