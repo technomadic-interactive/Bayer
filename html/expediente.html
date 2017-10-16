@@ -23,17 +23,19 @@
         });
     });
 </script>
-
 <script>
 $(document).ready(function(){
     $("#btn1").click(function(){
         $("p").append(" <b>Appended text</b>.");
     });
     $("#btn2").click(function(){
-        $("ol").append("<li>Appended item</li>");
+        $("ol").append("<div class="col-md-10 form-group">
+					<textarea class="form-control" rows="5" id="comentarios"></textarea>
+				</div>");
     });
 });
 </script>
+
 </head>
 <body>
 
@@ -59,13 +61,13 @@ $(document).ready(function(){
 					<label for="">Tag ID</label>
 				</div>
 				<div class="col-md-4 form-group">
-					<input id="edad" name="tag_id" type="text" placeholder="" class="form-control input-md" required="">
+					<input id="edad" name="tag_id" type="text" placeholder="" class="form-control input-md" >
 				</div>
 				<div class="col-md-2">
 					<label for="">Corral</label>
 				</div>
 				<div class="col-md-4 form-group">
-					<input id="edad" name="corral" type="text" placeholder="" class="form-control input-md" required="">
+					<input id="edad" name="corral" type="text" placeholder="" class="form-control input-md" >
 				</div>
 			</div>
 		</div>
@@ -76,13 +78,13 @@ $(document).ready(function(){
 					<label for="">Lote</label>
 				</div>
 				<div class="col-md-4 form-group">
-					<input id="edad" name="lote_id" type="text" placeholder="" class="form-control input-md" required="">
+					<input id="edad" name="lote_id" type="text" placeholder="" class="form-control input-md" >
 				</div>
 				<div class="col-md-2">
 					<label for="">Peso</label>
 				</div>
 				<div class="col-md-4 form-group">
-					<input id="edad" name="peso" type="text" placeholder="" class="form-control input-md" required="">
+					<input id="edad" name="peso" type="text" placeholder="" class="form-control input-md" >
 				</div>
 			</div>
 		</div>
@@ -93,23 +95,12 @@ $(document).ready(function(){
 					<label for="">Temperatura</label>
 				</div>
 				<div class="col-md-4 form-group">
-					<input id="edad" name="temperatura" type="text" placeholder="" class="form-control input-md" required="">
+					<input id="edad" name="temperatura" type="text" placeholder="" class="form-control input-md" >
 				</div>
 				<div class="col-md-2">
-					<label for="">Días de Tratamiento</label>
+					<label for="">Fecha de Alta</label>
 				</div>
-				<div class="col-md-4 form-group">
-					<input id="edad" name="dias" type="text" placeholder="" class="form-control input-md" required="">
-				</div>
-			</div>
-		</div>
-
-		<div class="container">
-	    <div class="row">
-	    	<div class="col-md-2">
-	    		<label for="">Fecha de Ingreso</label>
-	    	</div>
-	        <div class='col-md-3'>
+				<div class='col-md-3'>
 	            <div class="form-group">
 	                <div class='input-group date' id='datetimepicker1'>
 	                    <input id="fecha" type='text' class="form-control" />
@@ -128,41 +119,54 @@ $(document).ready(function(){
 	        <div class="col-md-2">
 	    		<label for=""></label>
 	    	</div>
+			</div>
 		</div>
-		</div>
-		</div>	
+
 		<div class="container">
 			<div class="row">
 				<div class="col-md-2">
-					<label for="">Padecimiento</label>
+					<label for="">Días de Tratamiento</label>
 				</div>
 				<div class="col-md-4 form-group">
-					<select name="padecimiento" id="padecimiento" class="form-control" id="exampleSelect1">
-						<option value="garrapatas">Garrapatas</option>
-						<option value="moquillo">Moquillo</option>
-						<option value="digestivo">Digestivo</option>
-						<option value="locomotor">Locomotor</option>
-						<option value="nervioso">Nervioso</option>
-					</select>
+					<input id="edad" name="dias" type="text" placeholder="" class="form-control input-md" required="">
 				</div>
+				<div class="col-md-2">
+					<label for="">Siguiente Revisión</label>
+				</div>
+				 <div class='col-md-3'>
+	            <div class="form-group">
+	                <div class='input-group date' id='datetimepicker1'>
+	                    <input id="fecha" type='text' class="form-control" />
+	                    <span class="input-group-addon">
+	                        <span class="glyphicon glyphicon-calendar"></span>
+	                    </span>
+	                </div>
+	            </div>
+	        </div>
+	        <script type="text/javascript">
+	            $(function () {
+	                $('#datetimepicker1').datetimepicker();
+	            });
+	        </script>
+			<div class="col-md-1"></div>
+	        <div class="col-md-2">
+	    		<label for=""></label>
+	    	</div>
+			</div>
+		</div>
+
+		<div class="container">
+			<div class="row">
 				<div class="col-md-2">
 				<label for="">Medicamento<br>(ml/kg de peso)</label>
 				</div>
-				<div class="col-md-4 form-group">
+				<div class="col-md-2 form-group">
 					<select name="medicamento" id="medicamento" class="form-control" multiple="multiple">
-						<option value="1">Fluxabac LA 1/10</option>
-						<option value="2">Tetrabac LA 1/10</option>
-						<option value="3">Baytril Max LA 1/13.5</option>
-						<option value="4">Fluxavet 2/45</option>
-						<option value="5">Fluxavet 4x90</option>
-						<option value="6">Fluxavet 6x135</option>
-						<option value="7">Dipirona 4x50</option>
-						<option value="8">Dipirona 8x100</option>
-						<option value="9">Dipirona 12x150</option>
-						<option value="10">Dipirona 16x200</option>
-						<option value="11">Dipirona 20250</option>
-						<option value="12">Baytril Max LA 1/13.5</option>
-						<option value="13">Penimox LA 1/40</option>
+						<option value="1">Fluxabac LA </option>
+						<option value="2">Tetrabac LA </option>
+						<option value="3">Baytril Max LA </option>
+						<option value="4">Penimox LA </option>
+						<option value="5">Dípirona</option>
 					</select>
 					<script type="text/javascript">
     						$('#btnSelected').click(function () {
@@ -176,55 +180,61 @@ $(document).ready(function(){
 					});
 					</script>
 				</div>
+				<div class="col-md-1">
+				    <input type="button" value="Dósis y Costo" class="btn btn-info" id="btn2">
+
+				</div>
+				<div class="col-md-1"></div>
+				<div class="col-md-4">
+					<ol></ol>
+				</div>
 			</div>
 		</div>
 
 		<div class="container">
 			<div class="row">
 				<div class="col-md-2">
-					<label for="">Adyuvantes</label>
+					<label for="">Diagnóstico:</label>
 				</div>
-				<div class="col-md-4 form-group">
-					<select name="adyuvantes" id="adyuvantes" class="form-control" id="exampleSelect1">
-						<option value="1">Vitam&iacute;nicos</option>
-						<option value="2">suplemento alimenticio</option>
-						<option value="3">Bioestimulantes</option>
-						<option value="4">Analgesicos</option>
-						<option value="5">Antipireticos</option>
-					</select>
-				</div>
-				<div class="col-md-2">
-					<label for="">Tratamiento</label>
-				</div>
-				<div class="col-md-4 form-group">
-					<select name="medicamento" id="medicamento" class="form-control">
-						<option value="primero">Primero</option>
-						<option value="segundo">Segundo</option>
-						<option value="tercero">Tercero</option>
-						<option value="cuarto">Cuarto</option>
-					</select>
+				<div class="col-md-10 form-group">
+					<textarea class="form-control" rows="5" id="comentarios"></textarea>
 				</div>
 			</div>
 		</div>
+		<div class="container">
+			<div class="row">
+				<div class="col-md-2">
+					<label for="">Recomendación:</label>
+				</div>
+				<div class="col-md-10 form-group">
+					<textarea class="form-control" rows="5" id="comentarios"></textarea>
+				</div>
+			</div>
+		</div>
+
+		<br>
+
 
 		<div class="form-group container">
 			<div class="row">
 				<div class="col-md-6"></div>
 				<div class="col-md-1">
-				    <button id="actualizar" name="actualizar" class="btn btn-info">Actualizar Expediente</button>
+				    <button id="actualizar" name="actualizar" class="btn btn-info">Guardar</button>
 				</div>
 				<div class="col-md-2"></div>
 				<div class="col-md-1">
-				    <button id="insertar" name="insertar" class="btn btn-info">Dar de Alta</button>
+				    <button id="insertar" name="insertar" class="btn btn-info">Cerrar</button>
 				</div>
 				<div class="col-md-1"></div>
 				<div class="col-md-1">
-				    <button id="btn2" name="insertar" class="btn btn-info">Mermar</button>
+				    <button id="insertar" name="insertar" class="btn btn-info">Mermar</button>
 				</div>
 			</div>
 		</div>
 
 	</form>
+
+
 	
 </body>
 
